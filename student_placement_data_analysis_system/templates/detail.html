@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ section_name }} · Student Placement Analytics</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand-link" href="/"><div class="brand-mark">SP</div><div><div class="brand">Student Placement Analytics</div><div class="subtitle">Data-driven placement insights</div></div></a>
+  <a class="back-link" href="/">← All sections</a>
+</header>
+<main class="container">
+  <div class="detail-top"><a href="/" class="back-small">← Back to sections</a><p class="eyebrow">DETAILED REPORT</p><h1>{{ section_name }}</h1><p class="intro">Explore the complete information for this section below.</p></div>
+  {% if error %}<div class="alert"><strong>Unable to load this section</strong><p>{{ error }}</p><p>Check the database connection and make sure <code>schema.sql</code> and <code>seed.sql</code> have been executed.</p></div>
+  {% elif stats %}
+    {% if section_key == "overview" %}
+      <section class="metrics">
+        <article class="metric"><span>Total students</span><strong>{{ "{:,}".format(stats.total) }}</strong><small>All records in the dataset</small></article>
+        <article class="metric"><span>Eligible students</span><strong>{{ "{:,}".format(stats.eligible) }}</strong><small>Placement-rate denominator</small></article>
+        <article class="metric"><span>Students placed</span><strong>{{ "{:,}".format(stats.placed) }}</strong><small>Unique placed students</small></article>
+        <article class="metric accent"><span>Placement rate</span><strong>{{ "%.1f"|format(stats.rate) }}%</strong><small>Placed ÷ eligible × 100</small></article>
+      </section>
+      <section class="table-card info-panel"><h2>How the placement rate is calculated</h2><p>Placement rate = students marked Placed ÷ all eligible students × 100. Students marked Not Eligible are excluded from the denominator. The dataset is fictional and does not represent official university results.</p></section>
+    {% elif section_key == "departments" %}
+      <section class="chart-card"><h2>Placement rate by department</h2><p>Percentage of eligible students placed in each department.</p><img src="/api/reports/department_placement_rate.png" alt="Placement rate by department chart"></section>
+      <section class="table-card"><div class="table-heading"><div><h2>Department comparison</h2><p>Student counts and placement rates by department.</p></div><a class="button" href="/api/export/department.csv">Export CSV ↓</a></div><div class="table-scroll"><table><thead><tr><th>Department</th><th>Students</th><th>Eligible</th><th>Placed</th><th>Placement rate</th></tr></thead><tbody>{% for d in departments %}<tr><td>{{ d.department }}</td><td>{{ d.students }}</td><td>{{ d.eligible }}</td><td>{{ d.placed }}</td><td>{{ "%.2f"|format(d.placement_rate) }}%</td></tr>{% endfor %}</tbody></table></div></section>
+    {% elif section_key == "packages" %}
+      <section class="metrics package-metrics"><article class="metric"><span>Average package</span><strong>₹{{ "%.2f"|format(stats.avg_package) }} LPA</strong></article><article class="metric"><span>Median package</span><strong>₹{{ "%.2f"|format(stats.median_package) }} LPA</strong></article><article class="metric"><span>Highest package</span><strong>₹{{ "%.2f"|format(stats.highest_package) }} LPA</strong></article><article class="metric"><span>Placed students</span><strong>{{ stats.placed }}</strong></article></section>
+      <section class="chart-card"><h2>Package distribution</h2><p>Distribution of annual packages among placed students. Package unit: LPA (lakhs per annum).</p><img src="/api/reports/package_distribution.png" alt="Package distribution chart"></section>
+      <section class="table-card info-panel"><h2>How to read this report</h2><p>Average is the arithmetic mean; median is the middle value after sorting packages. The highest package is the largest recorded sample value. All figures are generated for demonstration and are not salary promises.</p></section>
+    {% elif section_key == "skills" %}
+      <section class="chart-card"><h2>Top 10 listed skills</h2><p>Counts students who listed each skill; this is not a verified proficiency score or employer-demand survey.</p><img src="/api/reports/top_skills.png" alt="Top skills chart"></section>
+      <section class="table-card"><div class="table-heading"><div><h2>Skill summary</h2><p>Distinct students listing each skill.</p></div></div><div class="table-scroll"><table><thead><tr><th>Skill</th><th>Students listing skill</th></tr></thead><tbody>{% for s in skills %}<tr><td>{{ s.skill_name }}</td><td>{{ s.student_count }}</td></tr>{% endfor %}</tbody></table></div></section>
+    {% elif section_key == "students" %}
+      <section class="table-card"><div class="table-heading"><div><h2>Student records preview</h2><p>First 100 records. Use the API for filtered records (maximum 500 per request).</p></div><a class="button" href="/api/students">Open student API ↗</a></div><div class="table-scroll"><table><thead><tr><th>Roll number</th><th>Department</th><th>Graduation</th><th>Status</th><th>Company</th><th>Role</th><th>Package (LPA)</th></tr></thead><tbody>{% for row in recent %}<tr><td>{{ row.roll_no }}</td><td>{{ row.department }}</td><td>{{ row.graduation_year }}</td><td><span class="status {{ 'placed' if row.placement_status == 'Placed' else 'pending' }}">{{ row.placement_status }}</span></td><td>{{ row.company or '—' }}</td><td>{{ row.role or '—' }}</td><td>{{ row.package_lpa if row.package_lpa else '—' }}</td></tr>{% endfor %}</tbody></table></div></section>
+    {% elif section_key == "reports" %}
+      <section class="charts detail-charts"><article class="chart-card"><h2>Placement rate by department</h2><img src="/api/reports/department_placement_rate.png" alt="Placement rate by department chart"></article><article class="chart-card"><h2>Package distribution</h2><img src="/api/reports/package_distribution.png" alt="Package distribution chart"></article><article class="chart-card wide"><h2>Top listed skills</h2><img src="/api/reports/top_skills.png" alt="Top skills chart"></article></section>
+      <section class="table-card info-panel"><h2>Download a report</h2><p>Export department-wise placement statistics for further analysis.</p><a class="button" href="/api/export/department.csv">Download department CSV ↓</a></section>
+    {% endif %}
+  {% endif %}
+  <footer>Student Placement Data Analysis System <span>Fictional, generated sample records · Not official placement data</span></footer>
+</main>
+</body></html>

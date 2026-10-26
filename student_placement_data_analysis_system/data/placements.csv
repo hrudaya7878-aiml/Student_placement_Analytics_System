@@ -1,0 +1,1243 @@
+placement_id,student_id,company,role,package_lpa,placement_date,status
+1,1,NexGen Labs,Software Engineer,4.3,2026-07-13,Selected
+2,2,BlueOrbit,QA Engineer,13.78,2026-07-13,Selected
+3,3,CloudSprint,ML Engineer,5.77,2025-04-15,Selected
+4,7,DataNest,QA Engineer,18.42,2025-03-15,Selected
+5,8,CloudSprint,Data Analyst,9.02,2025-11-20,Selected
+6,10,TechNova,Business Analyst,15.59,2026-06-06,Selected
+7,14,BrightByte,Business Analyst,24.83,2025-04-19,Selected
+8,15,BlueOrbit,Software Engineer,11.98,2025-01-01,Selected
+9,18,NexGen Labs,Cloud Associate,20.97,2025-07-25,Selected
+10,20,TechNova,Business Analyst,5.15,2025-08-23,Selected
+11,21,BlueOrbit,Business Analyst,15.08,2026-08-14,Selected
+12,23,CloudSprint,Data Analyst,23.11,2025-12-14,Selected
+13,24,Vertex Digital,Software Engineer,14.36,2025-03-19,Selected
+14,27,BrightByte,Data Analyst,7.29,2026-05-14,Selected
+15,28,Vertex Digital,Data Analyst,26.02,2026-05-30,Selected
+16,29,TechNova,QA Engineer,17.68,2025-09-10,Selected
+17,30,NexGen Labs,Data Analyst,9.35,2025-11-18,Selected
+18,31,CloudSprint,Software Engineer,17.98,2026-09-29,Selected
+19,32,Vertex Digital,Cloud Associate,5.37,2025-10-19,Selected
+20,34,BrightByte,QA Engineer,20.34,2025-07-28,Selected
+21,36,NexGen Labs,QA Engineer,11.28,2026-03-29,Selected
+22,38,CodeCraft,Software Engineer,13.23,2025-08-04,Selected
+23,42,CodeCraft,Data Analyst,6.34,2025-08-22,Selected
+24,43,TechNova,Software Engineer,7.97,2026-07-04,Selected
+25,45,TechNova,QA Engineer,13.63,2025-02-15,Selected
+26,48,DataNest,QA Engineer,13.16,2026-01-24,Selected
+27,50,BrightByte,QA Engineer,12.88,2025-06-23,Selected
+28,51,TechNova,Data Analyst,5.21,2025-07-23,Selected
+29,52,DataNest,Cloud Associate,8.99,2026-05-22,Selected
+30,56,Vertex Digital,Backend Developer,14.49,2025-10-11,Selected
+31,57,DataNest,Data Analyst,4.21,2026-07-08,Selected
+32,58,NexGen Labs,Backend Developer,6.1,2025-03-05,Selected
+33,62,NexGen Labs,QA Engineer,3.4,2026-07-01,Selected
+34,64,CloudSprint,Backend Developer,9.68,2026-03-08,Selected
+35,67,InsightLoop,Cloud Associate,18.38,2026-09-13,Selected
+36,70,InnoWave,Software Engineer,14.0,2026-06-30,Selected
+37,75,Apex Systems,Software Engineer,3.15,2026-07-24,Selected
+38,76,TechNova,Software Engineer,14.48,2026-05-18,Selected
+39,77,InsightLoop,Backend Developer,11.6,2026-07-18,Selected
+40,78,InsightLoop,Data Analyst,26.8,2026-07-03,Selected
+41,79,DataNest,ML Engineer,9.07,2025-10-31,Selected
+42,80,BlueOrbit,Software Engineer,19.13,2025-05-10,Selected
+43,81,NexGen Labs,Backend Developer,15.33,2025-04-27,Selected
+44,82,CloudSprint,QA Engineer,27.85,2025-03-29,Selected
+45,86,QuantumWorks,Backend Developer,9.76,2026-02-23,Selected
+46,88,DataNest,Software Engineer,16.63,2025-06-02,Selected
+47,89,Vertex Digital,QA Engineer,26.6,2026-02-17,Selected
+48,90,CodeCraft,Business Analyst,6.43,2025-04-04,Selected
+49,91,BlueOrbit,ML Engineer,10.78,2026-04-27,Selected
+50,93,NexGen Labs,Business Analyst,7.32,2026-05-23,Selected
+51,94,TechNova,Cloud Associate,15.37,2026-06-11,Selected
+52,95,Vertex Digital,Data Analyst,6.05,2025-02-22,Selected
+53,97,InsightLoop,ML Engineer,10.48,2025-06-07,Selected
+54,101,Vertex Digital,Backend Developer,11.64,2025-12-20,Selected
+55,105,InsightLoop,Backend Developer,8.08,2025-09-29,Selected
+56,107,InsightLoop,Business Analyst,22.13,2025-04-11,Selected
+57,108,InnoWave,Backend Developer,10.69,2025-02-27,Selected
+58,109,QuantumWorks,Cloud Associate,24.84,2026-09-17,Selected
+59,111,InnoWave,QA Engineer,14.32,2025-03-17,Selected
+60,113,CodeCraft,Backend Developer,17.67,2025-01-23,Selected
+61,114,BrightByte,Business Analyst,23.9,2026-05-24,Selected
+62,115,CodeCraft,Cloud Associate,12.42,2025-05-21,Selected
+63,116,DataNest,Data Analyst,21.81,2025-12-01,Selected
+64,117,BlueOrbit,Software Engineer,23.2,2025-12-13,Selected
+65,123,InnoWave,Cloud Associate,13.02,2025-05-19,Selected
+66,127,Apex Systems,Cloud Associate,4.38,2026-04-11,Selected
+67,129,DataNest,Data Analyst,3.57,2026-09-03,Selected
+68,130,Apex Systems,QA Engineer,14.85,2026-01-02,Selected
+69,131,Vertex Digital,QA Engineer,22.56,2026-04-05,Selected
+70,133,CloudSprint,Backend Developer,9.39,2026-02-16,Selected
+71,134,NexGen Labs,QA Engineer,13.68,2026-07-16,Selected
+72,137,InnoWave,Data Analyst,12.98,2025-11-17,Selected
+73,139,CloudSprint,Backend Developer,7.94,2026-07-30,Selected
+74,141,Vertex Digital,ML Engineer,12.08,2025-04-21,Selected
+75,146,QuantumWorks,QA Engineer,14.65,2025-11-29,Selected
+76,148,BrightByte,Cloud Associate,14.03,2025-12-20,Selected
+77,150,CloudSprint,Software Engineer,7.34,2025-09-19,Selected
+78,151,InsightLoop,Software Engineer,8.96,2025-03-15,Selected
+79,152,NexGen Labs,Software Engineer,7.34,2026-03-04,Selected
+80,153,Vertex Digital,Software Engineer,17.93,2026-03-23,Selected
+81,154,Apex Systems,Business Analyst,10.96,2025-04-27,Selected
+82,156,QuantumWorks,Business Analyst,15.61,2026-10-06,Selected
+83,158,BlueOrbit,Software Engineer,11.1,2025-03-17,Selected
+84,159,QuantumWorks,QA Engineer,12.92,2026-06-04,Selected
+85,161,CloudSprint,QA Engineer,27.57,2025-12-18,Selected
+86,164,QuantumWorks,Cloud Associate,11.67,2025-06-03,Selected
+87,165,InnoWave,Business Analyst,12.73,2026-07-27,Selected
+88,170,DataNest,Cloud Associate,15.14,2026-10-02,Selected
+89,172,Apex Systems,ML Engineer,16.56,2026-04-26,Selected
+90,178,CloudSprint,Business Analyst,7.78,2025-01-29,Selected
+91,179,DataNest,Business Analyst,13.44,2026-04-29,Selected
+92,180,Vertex Digital,Cloud Associate,15.52,2025-08-09,Selected
+93,182,TechNova,Cloud Associate,18.12,2026-05-27,Selected
+94,183,CodeCraft,Software Engineer,5.81,2026-03-03,Selected
+95,185,InsightLoop,Cloud Associate,11.95,2025-03-11,Selected
+96,188,BrightByte,QA Engineer,11.23,2025-02-12,Selected
+97,189,InnoWave,ML Engineer,15.99,2025-02-18,Selected
+98,190,Vertex Digital,ML Engineer,12.5,2026-05-25,Selected
+99,191,BrightByte,ML Engineer,7.92,2025-03-23,Selected
+100,192,BrightByte,Cloud Associate,17.97,2026-09-22,Selected
+101,194,QuantumWorks,Software Engineer,12.37,2026-01-11,Selected
+102,196,NexGen Labs,QA Engineer,15.73,2025-07-10,Selected
+103,200,Vertex Digital,QA Engineer,3.39,2026-05-21,Selected
+104,201,NexGen Labs,Business Analyst,13.56,2026-06-23,Selected
+105,202,Vertex Digital,Cloud Associate,8.17,2026-06-14,Selected
+106,203,InnoWave,Cloud Associate,5.47,2025-11-08,Selected
+107,205,QuantumWorks,Data Analyst,18.0,2025-06-22,Selected
+108,209,Apex Systems,ML Engineer,10.26,2026-03-02,Selected
+109,211,TechNova,ML Engineer,5.11,2025-09-11,Selected
+110,213,Apex Systems,Data Analyst,10.58,2026-02-07,Selected
+111,214,CloudSprint,Backend Developer,3.12,2026-07-04,Selected
+112,216,CloudSprint,Data Analyst,13.21,2026-10-01,Selected
+113,218,Vertex Digital,Data Analyst,12.09,2025-06-02,Selected
+114,219,InsightLoop,QA Engineer,16.54,2026-06-06,Selected
+115,220,InsightLoop,Business Analyst,23.02,2025-11-12,Selected
+116,221,InsightLoop,QA Engineer,10.86,2025-06-24,Selected
+117,223,QuantumWorks,Backend Developer,15.79,2026-02-25,Selected
+118,228,NexGen Labs,Backend Developer,13.15,2026-08-11,Selected
+119,230,Vertex Digital,Cloud Associate,7.07,2026-07-06,Selected
+120,232,Vertex Digital,Data Analyst,3.08,2025-05-21,Selected
+121,238,CodeCraft,ML Engineer,13.97,2025-06-16,Selected
+122,239,CodeCraft,Backend Developer,12.16,2025-06-29,Selected
+123,240,Apex Systems,Software Engineer,7.85,2026-05-04,Selected
+124,245,Vertex Digital,Cloud Associate,10.88,2025-03-25,Selected
+125,249,InsightLoop,Data Analyst,23.5,2025-09-18,Selected
+126,250,BlueOrbit,Software Engineer,17.79,2025-03-12,Selected
+127,251,CodeCraft,Business Analyst,20.23,2025-03-24,Selected
+128,252,Apex Systems,Business Analyst,13.92,2025-05-11,Selected
+129,254,NexGen Labs,QA Engineer,15.14,2025-02-02,Selected
+130,255,Apex Systems,QA Engineer,9.03,2025-02-15,Selected
+131,257,BrightByte,ML Engineer,8.92,2026-06-18,Selected
+132,259,NexGen Labs,Data Analyst,5.24,2026-02-23,Selected
+133,261,InnoWave,Software Engineer,26.09,2025-03-22,Selected
+134,262,QuantumWorks,Cloud Associate,15.07,2025-07-12,Selected
+135,263,BlueOrbit,Data Analyst,14.2,2025-05-01,Selected
+136,264,Vertex Digital,Cloud Associate,8.71,2025-10-17,Selected
+137,265,InnoWave,ML Engineer,25.9,2025-11-24,Selected
+138,266,NexGen Labs,ML Engineer,11.69,2026-08-22,Selected
+139,267,BlueOrbit,Cloud Associate,9.8,2025-12-12,Selected
+140,268,Vertex Digital,Cloud Associate,5.76,2026-05-16,Selected
+141,270,QuantumWorks,Cloud Associate,8.6,2026-04-12,Selected
+142,272,DataNest,Software Engineer,23.25,2026-03-17,Selected
+143,273,BlueOrbit,QA Engineer,27.0,2026-01-18,Selected
+144,274,NexGen Labs,Backend Developer,5.79,2025-02-02,Selected
+145,275,CloudSprint,QA Engineer,11.49,2025-12-06,Selected
+146,277,BrightByte,Data Analyst,16.93,2026-02-12,Selected
+147,281,QuantumWorks,ML Engineer,4.29,2026-01-25,Selected
+148,282,NexGen Labs,ML Engineer,5.31,2026-10-12,Selected
+149,284,InnoWave,Business Analyst,18.12,2025-04-06,Selected
+150,285,DataNest,Cloud Associate,11.58,2025-09-06,Selected
+151,286,CloudSprint,ML Engineer,7.5,2026-03-08,Selected
+152,287,QuantumWorks,Backend Developer,11.64,2026-02-10,Selected
+153,288,NexGen Labs,ML Engineer,5.66,2025-11-18,Selected
+154,289,QuantumWorks,Data Analyst,6.29,2026-01-09,Selected
+155,291,DataNest,Cloud Associate,13.09,2026-02-23,Selected
+156,292,Vertex Digital,QA Engineer,17.76,2026-05-06,Selected
+157,293,Apex Systems,Cloud Associate,4.64,2025-03-29,Selected
+158,295,CodeCraft,QA Engineer,13.08,2026-01-19,Selected
+159,297,InsightLoop,Cloud Associate,4.46,2026-05-03,Selected
+160,298,CodeCraft,Business Analyst,12.72,2025-12-18,Selected
+161,299,NexGen Labs,Cloud Associate,9.18,2026-04-19,Selected
+162,300,NexGen Labs,Backend Developer,14.51,2025-07-22,Selected
+163,301,InnoWave,Data Analyst,8.08,2026-07-04,Selected
+164,304,Vertex Digital,Backend Developer,13.4,2026-01-18,Selected
+165,305,BlueOrbit,ML Engineer,11.32,2025-06-27,Selected
+166,306,Apex Systems,Business Analyst,15.37,2025-01-10,Selected
+167,309,InnoWave,QA Engineer,22.49,2025-10-02,Selected
+168,310,TechNova,Backend Developer,7.47,2025-09-11,Selected
+169,311,InsightLoop,QA Engineer,8.64,2025-08-31,Selected
+170,324,CodeCraft,ML Engineer,4.77,2025-06-19,Selected
+171,325,CloudSprint,Data Analyst,6.2,2025-01-02,Selected
+172,326,NexGen Labs,Cloud Associate,17.82,2025-05-04,Selected
+173,327,DataNest,Backend Developer,25.08,2026-01-12,Selected
+174,329,BlueOrbit,Business Analyst,18.59,2026-02-26,Selected
+175,331,QuantumWorks,QA Engineer,6.72,2025-03-28,Selected
+176,335,QuantumWorks,Backend Developer,12.98,2025-05-16,Selected
+177,337,InsightLoop,QA Engineer,10.52,2026-06-03,Selected
+178,338,Apex Systems,Business Analyst,10.67,2025-03-22,Selected
+179,339,Apex Systems,Software Engineer,21.38,2026-03-24,Selected
+180,342,DataNest,Cloud Associate,7.59,2025-09-23,Selected
+181,343,CloudSprint,ML Engineer,7.08,2026-03-16,Selected
+182,348,QuantumWorks,ML Engineer,15.39,2025-10-05,Selected
+183,349,BlueOrbit,Business Analyst,5.19,2026-02-15,Selected
+184,350,BrightByte,Cloud Associate,17.31,2025-10-26,Selected
+185,354,Apex Systems,Business Analyst,3.66,2025-04-06,Selected
+186,355,NexGen Labs,Software Engineer,5.0,2026-06-02,Selected
+187,359,BlueOrbit,ML Engineer,14.57,2025-08-01,Selected
+188,361,TechNova,Cloud Associate,13.21,2025-12-31,Selected
+189,362,CloudSprint,Business Analyst,5.82,2025-09-13,Selected
+190,363,CodeCraft,Software Engineer,13.29,2026-01-17,Selected
+191,365,NexGen Labs,Business Analyst,16.86,2025-06-22,Selected
+192,366,DataNest,Software Engineer,9.69,2025-10-14,Selected
+193,368,BlueOrbit,ML Engineer,15.25,2026-01-03,Selected
+194,369,BrightByte,Software Engineer,3.44,2025-08-13,Selected
+195,374,BlueOrbit,Software Engineer,11.07,2026-07-10,Selected
+196,375,InnoWave,Software Engineer,21.06,2025-12-15,Selected
+197,378,DataNest,Cloud Associate,19.4,2026-05-14,Selected
+198,380,QuantumWorks,Software Engineer,8.87,2026-08-10,Selected
+199,382,BrightByte,Data Analyst,14.44,2025-12-10,Selected
+200,383,InsightLoop,Backend Developer,12.96,2025-02-19,Selected
+201,384,TechNova,ML Engineer,14.56,2025-06-16,Selected
+202,385,CloudSprint,ML Engineer,16.9,2025-03-18,Selected
+203,388,Vertex Digital,Business Analyst,13.13,2025-02-20,Selected
+204,389,Apex Systems,Software Engineer,12.0,2026-10-03,Selected
+205,390,NexGen Labs,Backend Developer,11.05,2025-04-29,Selected
+206,392,InsightLoop,Cloud Associate,5.27,2025-03-05,Selected
+207,394,InsightLoop,Software Engineer,4.18,2025-11-03,Selected
+208,396,BrightByte,ML Engineer,23.94,2025-06-01,Selected
+209,401,InnoWave,Cloud Associate,3.58,2026-02-16,Selected
+210,405,DataNest,Software Engineer,10.73,2025-02-27,Selected
+211,406,BlueOrbit,Software Engineer,9.61,2025-03-01,Selected
+212,407,BlueOrbit,QA Engineer,9.43,2025-02-01,Selected
+213,410,NexGen Labs,QA Engineer,7.04,2025-07-31,Selected
+214,413,QuantumWorks,ML Engineer,19.36,2026-07-29,Selected
+215,414,Vertex Digital,Business Analyst,8.11,2025-11-02,Selected
+216,419,Apex Systems,ML Engineer,12.82,2025-12-10,Selected
+217,420,BlueOrbit,Software Engineer,24.35,2026-04-20,Selected
+218,422,QuantumWorks,Backend Developer,8.14,2025-07-25,Selected
+219,423,InnoWave,Cloud Associate,27.67,2026-10-09,Selected
+220,424,CloudSprint,Data Analyst,22.74,2026-05-17,Selected
+221,425,InnoWave,Business Analyst,17.25,2026-01-18,Selected
+222,427,Vertex Digital,QA Engineer,14.67,2025-10-25,Selected
+223,430,CodeCraft,ML Engineer,12.69,2025-02-08,Selected
+224,432,CodeCraft,Cloud Associate,6.08,2025-06-06,Selected
+225,433,QuantumWorks,Software Engineer,16.03,2025-04-18,Selected
+226,434,TechNova,QA Engineer,10.74,2026-02-24,Selected
+227,436,CloudSprint,ML Engineer,21.23,2025-03-18,Selected
+228,438,DataNest,Cloud Associate,3.15,2025-02-16,Selected
+229,440,InsightLoop,Cloud Associate,6.27,2025-06-20,Selected
+230,443,Apex Systems,Cloud Associate,13.86,2026-08-14,Selected
+231,445,BlueOrbit,Business Analyst,24.3,2026-06-02,Selected
+232,446,NexGen Labs,Business Analyst,19.26,2026-07-18,Selected
+233,448,QuantumWorks,Cloud Associate,22.9,2025-04-04,Selected
+234,449,QuantumWorks,QA Engineer,17.22,2025-12-06,Selected
+235,451,DataNest,Backend Developer,3.69,2025-04-19,Selected
+236,452,Apex Systems,Cloud Associate,8.78,2026-02-07,Selected
+237,453,BlueOrbit,Software Engineer,6.8,2026-06-01,Selected
+238,460,QuantumWorks,Cloud Associate,10.21,2026-07-30,Selected
+239,462,CodeCraft,ML Engineer,27.6,2025-06-14,Selected
+240,463,Vertex Digital,Backend Developer,21.69,2025-08-18,Selected
+241,467,DataNest,Cloud Associate,8.08,2025-03-18,Selected
+242,468,DataNest,Software Engineer,9.99,2025-12-05,Selected
+243,470,Vertex Digital,QA Engineer,7.4,2026-06-02,Selected
+244,473,InsightLoop,ML Engineer,9.79,2026-01-31,Selected
+245,474,CloudSprint,Data Analyst,16.09,2025-11-25,Selected
+246,476,InsightLoop,ML Engineer,4.08,2025-06-07,Selected
+247,477,BlueOrbit,Cloud Associate,13.49,2025-09-22,Selected
+248,478,InsightLoop,QA Engineer,3.95,2026-09-26,Selected
+249,479,BlueOrbit,Backend Developer,10.4,2025-03-30,Selected
+250,480,CodeCraft,Data Analyst,7.42,2026-07-13,Selected
+251,482,Vertex Digital,Data Analyst,25.69,2026-02-27,Selected
+252,485,QuantumWorks,Software Engineer,5.95,2025-08-29,Selected
+253,486,InnoWave,Backend Developer,12.43,2026-08-04,Selected
+254,488,QuantumWorks,Software Engineer,5.64,2025-04-22,Selected
+255,489,CodeCraft,Software Engineer,15.74,2025-01-20,Selected
+256,492,Apex Systems,Business Analyst,3.76,2026-05-30,Selected
+257,495,BlueOrbit,Software Engineer,15.01,2026-02-02,Selected
+258,500,NexGen Labs,Business Analyst,19.7,2025-05-02,Selected
+259,501,DataNest,QA Engineer,9.47,2025-01-23,Selected
+260,506,TechNova,Data Analyst,6.74,2026-01-30,Selected
+261,508,InnoWave,Business Analyst,10.83,2026-03-18,Selected
+262,509,DataNest,ML Engineer,5.89,2026-08-13,Selected
+263,511,NexGen Labs,Cloud Associate,10.8,2025-05-01,Selected
+264,512,Vertex Digital,Backend Developer,9.71,2026-08-23,Selected
+265,519,QuantumWorks,Software Engineer,20.93,2025-10-21,Selected
+266,520,TechNova,Business Analyst,7.29,2026-06-15,Selected
+267,521,DataNest,Software Engineer,12.83,2025-09-02,Selected
+268,522,Vertex Digital,QA Engineer,10.47,2026-07-17,Selected
+269,524,BrightByte,QA Engineer,15.04,2025-04-30,Selected
+270,525,QuantumWorks,Business Analyst,13.22,2026-04-15,Selected
+271,526,InnoWave,QA Engineer,13.6,2025-11-20,Selected
+272,527,DataNest,Backend Developer,4.14,2025-12-17,Selected
+273,528,Apex Systems,Cloud Associate,21.56,2026-05-26,Selected
+274,529,CloudSprint,Software Engineer,22.58,2025-06-09,Selected
+275,530,QuantumWorks,Business Analyst,16.47,2026-05-20,Selected
+276,534,QuantumWorks,ML Engineer,10.07,2025-10-03,Selected
+277,535,DataNest,QA Engineer,7.91,2026-04-07,Selected
+278,539,BrightByte,ML Engineer,14.17,2026-04-06,Selected
+279,543,QuantumWorks,Backend Developer,12.47,2026-03-08,Selected
+280,544,NexGen Labs,ML Engineer,12.08,2025-10-01,Selected
+281,549,InnoWave,Business Analyst,4.36,2025-01-30,Selected
+282,551,Apex Systems,Business Analyst,10.22,2025-12-22,Selected
+283,552,DataNest,ML Engineer,23.48,2026-06-20,Selected
+284,553,TechNova,QA Engineer,18.13,2025-10-27,Selected
+285,554,Apex Systems,ML Engineer,23.8,2026-02-04,Selected
+286,555,CloudSprint,Data Analyst,13.62,2025-10-03,Selected
+287,556,TechNova,QA Engineer,3.98,2025-11-25,Selected
+288,558,TechNova,ML Engineer,9.96,2026-01-16,Selected
+289,564,DataNest,Business Analyst,11.45,2026-03-21,Selected
+290,567,CloudSprint,Data Analyst,13.52,2025-06-07,Selected
+291,571,BrightByte,QA Engineer,14.51,2025-06-08,Selected
+292,572,InsightLoop,Software Engineer,9.35,2026-09-28,Selected
+293,573,InnoWave,Software Engineer,9.15,2025-11-27,Selected
+294,574,Apex Systems,Software Engineer,6.12,2025-07-26,Selected
+295,575,QuantumWorks,Cloud Associate,12.48,2025-02-20,Selected
+296,578,Vertex Digital,Software Engineer,17.17,2025-03-21,Selected
+297,579,DataNest,QA Engineer,18.82,2026-08-07,Selected
+298,580,DataNest,QA Engineer,5.5,2025-04-17,Selected
+299,581,NexGen Labs,Business Analyst,14.46,2026-02-27,Selected
+300,583,BrightByte,Software Engineer,10.76,2025-01-17,Selected
+301,584,DataNest,Software Engineer,26.19,2026-08-08,Selected
+302,585,CloudSprint,QA Engineer,23.37,2025-09-20,Selected
+303,589,InnoWave,QA Engineer,10.87,2025-11-09,Selected
+304,592,Vertex Digital,Backend Developer,5.58,2025-09-26,Selected
+305,593,InsightLoop,QA Engineer,12.24,2026-07-29,Selected
+306,595,InnoWave,QA Engineer,5.54,2025-11-09,Selected
+307,596,CloudSprint,Software Engineer,14.37,2025-06-09,Selected
+308,598,Vertex Digital,Business Analyst,8.49,2025-08-05,Selected
+309,600,InsightLoop,QA Engineer,10.46,2025-03-03,Selected
+310,602,NexGen Labs,QA Engineer,9.16,2026-01-31,Selected
+311,606,BrightByte,Data Analyst,26.63,2025-01-31,Selected
+312,610,NexGen Labs,Business Analyst,16.64,2026-06-21,Selected
+313,612,NexGen Labs,Backend Developer,16.2,2025-11-23,Selected
+314,615,NexGen Labs,Backend Developer,8.01,2026-01-18,Selected
+315,616,CloudSprint,Data Analyst,14.37,2025-07-27,Selected
+316,617,NexGen Labs,Cloud Associate,14.03,2026-09-15,Selected
+317,626,Vertex Digital,QA Engineer,21.31,2026-01-29,Selected
+318,627,DataNest,Data Analyst,7.47,2025-06-03,Selected
+319,628,BrightByte,Software Engineer,3.05,2025-07-27,Selected
+320,630,BrightByte,QA Engineer,25.11,2025-09-08,Selected
+321,631,TechNova,Cloud Associate,3.55,2025-12-24,Selected
+322,633,CloudSprint,Business Analyst,26.32,2026-01-04,Selected
+323,634,BlueOrbit,Data Analyst,5.09,2026-07-18,Selected
+324,635,InsightLoop,Cloud Associate,6.18,2025-03-01,Selected
+325,642,InnoWave,Backend Developer,13.29,2025-04-27,Selected
+326,643,TechNova,Cloud Associate,16.74,2026-05-06,Selected
+327,644,CodeCraft,ML Engineer,17.34,2025-11-03,Selected
+328,646,CloudSprint,Business Analyst,8.09,2026-02-03,Selected
+329,647,Apex Systems,ML Engineer,10.46,2025-03-30,Selected
+330,648,CloudSprint,Backend Developer,14.67,2025-02-08,Selected
+331,650,TechNova,Backend Developer,6.08,2025-05-16,Selected
+332,651,TechNova,Software Engineer,8.0,2025-03-31,Selected
+333,652,Vertex Digital,ML Engineer,7.3,2025-07-17,Selected
+334,653,CloudSprint,Data Analyst,11.39,2026-09-30,Selected
+335,654,InnoWave,QA Engineer,12.2,2025-11-15,Selected
+336,655,NexGen Labs,Data Analyst,4.29,2025-02-25,Selected
+337,657,CodeCraft,Cloud Associate,9.83,2025-04-10,Selected
+338,660,Vertex Digital,Software Engineer,11.62,2026-09-11,Selected
+339,661,QuantumWorks,Backend Developer,9.91,2026-06-30,Selected
+340,662,NexGen Labs,QA Engineer,22.72,2026-03-18,Selected
+341,663,CloudSprint,QA Engineer,15.55,2026-08-11,Selected
+342,664,QuantumWorks,Business Analyst,13.28,2025-04-22,Selected
+343,667,CodeCraft,ML Engineer,11.55,2025-11-03,Selected
+344,671,CodeCraft,Data Analyst,16.86,2026-03-22,Selected
+345,672,CloudSprint,Cloud Associate,5.01,2025-05-09,Selected
+346,673,InsightLoop,QA Engineer,25.39,2026-04-12,Selected
+347,676,BlueOrbit,Cloud Associate,4.7,2026-01-13,Selected
+348,677,BlueOrbit,Cloud Associate,5.67,2026-09-17,Selected
+349,679,BlueOrbit,QA Engineer,10.69,2026-04-10,Selected
+350,683,QuantumWorks,Cloud Associate,18.29,2025-04-25,Selected
+351,685,NexGen Labs,Business Analyst,24.02,2025-06-07,Selected
+352,687,BrightByte,Backend Developer,8.98,2026-04-21,Selected
+353,691,CodeCraft,Cloud Associate,8.87,2026-08-22,Selected
+354,693,BrightByte,ML Engineer,8.88,2025-12-26,Selected
+355,694,QuantumWorks,Data Analyst,5.62,2025-05-03,Selected
+356,696,InsightLoop,Cloud Associate,22.35,2025-10-11,Selected
+357,699,CodeCraft,Software Engineer,8.85,2026-03-18,Selected
+358,700,TechNova,Backend Developer,14.66,2025-09-14,Selected
+359,705,CodeCraft,Data Analyst,17.51,2025-02-10,Selected
+360,706,Apex Systems,Software Engineer,6.93,2025-07-14,Selected
+361,707,InnoWave,Business Analyst,8.09,2025-02-07,Selected
+362,708,DataNest,Backend Developer,3.55,2025-03-15,Selected
+363,711,Apex Systems,Software Engineer,14.99,2026-09-02,Selected
+364,714,QuantumWorks,Software Engineer,9.47,2026-03-26,Selected
+365,715,CloudSprint,Cloud Associate,3.68,2025-01-07,Selected
+366,717,BlueOrbit,QA Engineer,7.91,2026-09-03,Selected
+367,718,QuantumWorks,ML Engineer,27.43,2026-06-27,Selected
+368,719,CodeCraft,Business Analyst,14.95,2025-04-26,Selected
+369,721,TechNova,Backend Developer,7.81,2026-07-05,Selected
+370,722,CloudSprint,ML Engineer,6.45,2025-11-30,Selected
+371,723,TechNova,Backend Developer,17.83,2026-04-28,Selected
+372,726,CodeCraft,QA Engineer,12.05,2025-10-30,Selected
+373,729,NexGen Labs,Software Engineer,16.47,2026-08-11,Selected
+374,730,CloudSprint,QA Engineer,15.63,2026-04-09,Selected
+375,731,CloudSprint,Software Engineer,12.71,2025-09-02,Selected
+376,737,Apex Systems,Data Analyst,17.24,2025-03-10,Selected
+377,738,Vertex Digital,Cloud Associate,25.5,2025-12-28,Selected
+378,739,Vertex Digital,ML Engineer,13.17,2026-06-29,Selected
+379,741,DataNest,Backend Developer,6.24,2025-10-10,Selected
+380,742,BlueOrbit,Cloud Associate,11.99,2026-05-01,Selected
+381,743,InnoWave,Cloud Associate,9.18,2025-12-10,Selected
+382,745,DataNest,QA Engineer,10.47,2025-12-28,Selected
+383,746,CloudSprint,Software Engineer,7.45,2025-06-07,Selected
+384,747,InnoWave,Data Analyst,19.81,2025-02-05,Selected
+385,748,InnoWave,Data Analyst,26.72,2025-05-29,Selected
+386,749,InsightLoop,Backend Developer,23.09,2025-05-31,Selected
+387,750,TechNova,Backend Developer,6.36,2026-07-19,Selected
+388,751,Apex Systems,Business Analyst,11.75,2025-07-19,Selected
+389,752,QuantumWorks,QA Engineer,10.36,2025-07-19,Selected
+390,754,BlueOrbit,Cloud Associate,21.33,2025-08-09,Selected
+391,756,BrightByte,Backend Developer,19.15,2026-02-24,Selected
+392,757,TechNova,Business Analyst,17.07,2025-10-24,Selected
+393,758,CodeCraft,Business Analyst,7.5,2025-09-26,Selected
+394,761,BrightByte,Data Analyst,3.26,2026-08-13,Selected
+395,762,CodeCraft,ML Engineer,8.42,2025-10-07,Selected
+396,763,CloudSprint,QA Engineer,7.99,2026-10-06,Selected
+397,765,BlueOrbit,Backend Developer,12.64,2025-10-16,Selected
+398,766,Vertex Digital,Business Analyst,18.53,2026-07-27,Selected
+399,771,TechNova,Data Analyst,22.05,2026-05-11,Selected
+400,772,BrightByte,Cloud Associate,4.56,2025-09-17,Selected
+401,774,QuantumWorks,Data Analyst,14.71,2026-05-28,Selected
+402,777,CloudSprint,Data Analyst,20.0,2026-03-27,Selected
+403,779,TechNova,Software Engineer,11.36,2025-10-23,Selected
+404,780,NexGen Labs,Data Analyst,10.62,2026-02-22,Selected
+405,782,QuantumWorks,Software Engineer,9.01,2026-02-09,Selected
+406,784,NexGen Labs,Backend Developer,19.83,2026-05-03,Selected
+407,785,DataNest,Software Engineer,6.46,2026-05-25,Selected
+408,786,DataNest,ML Engineer,20.14,2026-09-12,Selected
+409,787,BrightByte,QA Engineer,10.35,2026-05-25,Selected
+410,789,DataNest,Backend Developer,16.27,2025-11-07,Selected
+411,790,CodeCraft,QA Engineer,12.9,2026-05-18,Selected
+412,794,CodeCraft,ML Engineer,9.57,2025-09-08,Selected
+413,796,NexGen Labs,ML Engineer,17.42,2026-03-09,Selected
+414,797,BlueOrbit,Software Engineer,5.89,2026-08-10,Selected
+415,800,BrightByte,Software Engineer,11.88,2025-04-08,Selected
+416,801,BrightByte,Backend Developer,10.57,2025-11-06,Selected
+417,802,TechNova,Cloud Associate,5.71,2026-07-15,Selected
+418,805,NexGen Labs,ML Engineer,15.66,2025-11-04,Selected
+419,807,BrightByte,Backend Developer,9.52,2025-01-29,Selected
+420,810,CloudSprint,Backend Developer,19.96,2026-01-08,Selected
+421,811,CloudSprint,Data Analyst,6.78,2026-06-22,Selected
+422,812,DataNest,Data Analyst,5.16,2025-08-12,Selected
+423,817,BlueOrbit,Backend Developer,24.74,2026-07-02,Selected
+424,819,CloudSprint,Business Analyst,10.21,2025-02-04,Selected
+425,820,InnoWave,Backend Developer,10.6,2025-09-25,Selected
+426,823,CodeCraft,Backend Developer,15.7,2025-05-14,Selected
+427,825,TechNova,QA Engineer,3.31,2025-08-18,Selected
+428,827,InsightLoop,QA Engineer,4.76,2026-08-04,Selected
+429,831,CodeCraft,Backend Developer,17.78,2026-01-14,Selected
+430,833,InnoWave,QA Engineer,10.06,2025-08-29,Selected
+431,835,Vertex Digital,Backend Developer,6.9,2025-07-03,Selected
+432,836,BrightByte,Cloud Associate,15.73,2025-05-11,Selected
+433,838,DataNest,Software Engineer,4.8,2026-03-27,Selected
+434,839,Vertex Digital,Backend Developer,27.73,2026-01-01,Selected
+435,841,TechNova,QA Engineer,27.95,2026-08-21,Selected
+436,843,CloudSprint,Business Analyst,26.26,2026-08-28,Selected
+437,844,TechNova,Cloud Associate,11.57,2025-01-06,Selected
+438,848,BrightByte,Cloud Associate,21.53,2026-03-19,Selected
+439,849,QuantumWorks,QA Engineer,10.15,2026-02-02,Selected
+440,852,BlueOrbit,ML Engineer,5.44,2026-03-24,Selected
+441,853,CloudSprint,Software Engineer,4.67,2026-08-06,Selected
+442,854,Vertex Digital,Software Engineer,11.78,2025-09-18,Selected
+443,855,InsightLoop,ML Engineer,13.7,2025-03-27,Selected
+444,858,InsightLoop,QA Engineer,16.03,2026-02-19,Selected
+445,860,Apex Systems,Backend Developer,15.89,2025-07-12,Selected
+446,861,DataNest,Data Analyst,3.33,2026-03-09,Selected
+447,864,NexGen Labs,Backend Developer,3.56,2025-10-25,Selected
+448,866,NexGen Labs,Software Engineer,9.72,2025-12-22,Selected
+449,867,InsightLoop,Cloud Associate,26.08,2025-12-14,Selected
+450,870,Apex Systems,QA Engineer,10.94,2026-05-21,Selected
+451,871,InnoWave,Backend Developer,23.27,2025-02-02,Selected
+452,872,DataNest,Business Analyst,10.05,2026-07-25,Selected
+453,873,CloudSprint,Software Engineer,17.44,2026-04-14,Selected
+454,875,Vertex Digital,Backend Developer,20.85,2025-10-27,Selected
+455,876,TechNova,Data Analyst,17.54,2026-03-26,Selected
+456,879,TechNova,Cloud Associate,9.64,2025-01-31,Selected
+457,881,TechNova,Cloud Associate,16.54,2025-06-04,Selected
+458,883,Apex Systems,QA Engineer,9.69,2026-02-18,Selected
+459,886,Vertex Digital,QA Engineer,25.31,2025-01-29,Selected
+460,887,InnoWave,Software Engineer,18.86,2025-09-23,Selected
+461,891,CloudSprint,Software Engineer,23.8,2026-03-12,Selected
+462,897,DataNest,Data Analyst,15.41,2025-10-29,Selected
+463,899,QuantumWorks,Backend Developer,11.6,2026-05-08,Selected
+464,901,Apex Systems,Backend Developer,9.14,2026-10-01,Selected
+465,902,InsightLoop,ML Engineer,17.51,2025-01-26,Selected
+466,905,Vertex Digital,QA Engineer,9.66,2026-08-17,Selected
+467,906,Vertex Digital,ML Engineer,13.67,2025-07-04,Selected
+468,909,BrightByte,Backend Developer,25.38,2026-02-27,Selected
+469,910,InnoWave,Backend Developer,7.04,2025-04-28,Selected
+470,911,CodeCraft,Software Engineer,17.45,2026-07-22,Selected
+471,912,DataNest,Business Analyst,12.65,2025-05-26,Selected
+472,916,NexGen Labs,Data Analyst,17.98,2026-07-24,Selected
+473,918,InsightLoop,Data Analyst,3.89,2025-12-03,Selected
+474,919,InsightLoop,Cloud Associate,11.34,2026-02-28,Selected
+475,921,InnoWave,Data Analyst,4.87,2025-01-09,Selected
+476,922,CodeCraft,ML Engineer,15.24,2025-04-03,Selected
+477,924,Apex Systems,Cloud Associate,5.56,2026-05-21,Selected
+478,929,InnoWave,Software Engineer,16.54,2026-03-07,Selected
+479,932,Apex Systems,Software Engineer,24.09,2025-12-09,Selected
+480,935,TechNova,Business Analyst,14.74,2025-03-08,Selected
+481,940,NexGen Labs,Backend Developer,9.78,2026-06-06,Selected
+482,941,Vertex Digital,Cloud Associate,11.77,2025-11-16,Selected
+483,944,CodeCraft,Backend Developer,8.12,2025-03-12,Selected
+484,946,InsightLoop,Data Analyst,19.15,2025-01-04,Selected
+485,948,DataNest,ML Engineer,11.32,2025-01-31,Selected
+486,950,TechNova,Data Analyst,7.87,2025-09-09,Selected
+487,953,DataNest,Business Analyst,25.13,2025-05-28,Selected
+488,957,DataNest,ML Engineer,10.78,2026-05-26,Selected
+489,959,NexGen Labs,Backend Developer,6.28,2026-02-10,Selected
+490,962,DataNest,Backend Developer,8.74,2025-10-07,Selected
+491,963,CodeCraft,Software Engineer,16.06,2026-05-29,Selected
+492,965,QuantumWorks,Data Analyst,8.17,2025-10-09,Selected
+493,967,DataNest,Business Analyst,19.53,2026-04-29,Selected
+494,969,BlueOrbit,Business Analyst,6.14,2026-03-04,Selected
+495,971,TechNova,QA Engineer,7.89,2025-11-03,Selected
+496,974,InsightLoop,QA Engineer,5.66,2026-07-21,Selected
+497,975,TechNova,ML Engineer,4.05,2026-06-21,Selected
+498,977,InsightLoop,Cloud Associate,9.48,2025-11-14,Selected
+499,982,InsightLoop,Software Engineer,4.43,2026-08-06,Selected
+500,983,NexGen Labs,Business Analyst,25.76,2025-08-11,Selected
+501,985,InsightLoop,Cloud Associate,4.1,2025-01-28,Selected
+502,987,BlueOrbit,Data Analyst,20.98,2025-09-06,Selected
+503,988,Vertex Digital,Cloud Associate,7.41,2025-07-01,Selected
+504,990,CodeCraft,Cloud Associate,23.38,2026-10-13,Selected
+505,995,Apex Systems,QA Engineer,5.84,2026-10-04,Selected
+506,996,Apex Systems,Backend Developer,3.18,2025-11-20,Selected
+507,997,CloudSprint,Cloud Associate,15.74,2026-09-06,Selected
+508,1000,TechNova,Data Analyst,20.76,2026-08-25,Selected
+509,1001,TechNova,Data Analyst,18.68,2025-09-07,Selected
+510,1002,BlueOrbit,Cloud Associate,27.72,2026-09-05,Selected
+511,1003,BrightByte,Business Analyst,19.38,2026-03-01,Selected
+512,1004,InsightLoop,Cloud Associate,23.14,2025-09-12,Selected
+513,1005,CloudSprint,Data Analyst,24.81,2025-03-08,Selected
+514,1009,InnoWave,Backend Developer,5.46,2026-05-08,Selected
+515,1010,CloudSprint,Business Analyst,9.41,2026-01-26,Selected
+516,1011,NexGen Labs,QA Engineer,14.61,2025-11-10,Selected
+517,1012,InnoWave,Backend Developer,13.96,2026-05-28,Selected
+518,1014,NexGen Labs,ML Engineer,5.91,2025-06-16,Selected
+519,1016,BlueOrbit,Cloud Associate,6.92,2025-06-01,Selected
+520,1017,NexGen Labs,Backend Developer,19.29,2025-04-05,Selected
+521,1019,NexGen Labs,Business Analyst,7.62,2026-08-24,Selected
+522,1021,InsightLoop,Backend Developer,5.21,2025-04-10,Selected
+523,1023,TechNova,Cloud Associate,5.78,2025-08-06,Selected
+524,1025,CodeCraft,Business Analyst,15.21,2025-08-29,Selected
+525,1034,QuantumWorks,Business Analyst,13.3,2026-05-12,Selected
+526,1036,CloudSprint,ML Engineer,15.7,2025-05-11,Selected
+527,1038,InnoWave,Backend Developer,5.4,2025-01-30,Selected
+528,1039,BlueOrbit,Software Engineer,12.5,2026-07-02,Selected
+529,1040,Vertex Digital,Business Analyst,12.81,2026-01-26,Selected
+530,1041,Apex Systems,Cloud Associate,14.11,2025-12-15,Selected
+531,1043,QuantumWorks,Data Analyst,12.96,2026-06-17,Selected
+532,1046,BlueOrbit,ML Engineer,15.43,2026-10-09,Selected
+533,1053,QuantumWorks,Software Engineer,8.43,2025-01-10,Selected
+534,1055,Apex Systems,Backend Developer,4.33,2025-09-08,Selected
+535,1057,CloudSprint,Software Engineer,6.44,2025-01-12,Selected
+536,1060,Vertex Digital,Backend Developer,14.75,2026-07-04,Selected
+537,1061,CloudSprint,Data Analyst,27.16,2025-08-01,Selected
+538,1062,DataNest,Software Engineer,6.09,2026-08-12,Selected
+539,1063,DataNest,Backend Developer,17.49,2026-01-08,Selected
+540,1064,InsightLoop,ML Engineer,11.66,2025-05-24,Selected
+541,1066,BrightByte,Data Analyst,18.0,2025-08-10,Selected
+542,1071,InnoWave,Business Analyst,12.39,2025-04-02,Selected
+543,1072,CloudSprint,Business Analyst,12.78,2025-08-16,Selected
+544,1078,Vertex Digital,Cloud Associate,17.29,2025-10-10,Selected
+545,1080,BrightByte,QA Engineer,4.27,2025-02-28,Selected
+546,1083,BlueOrbit,Data Analyst,3.64,2026-09-16,Selected
+547,1086,Apex Systems,Software Engineer,10.69,2026-05-10,Selected
+548,1087,BlueOrbit,Software Engineer,16.39,2026-04-20,Selected
+549,1088,TechNova,Software Engineer,13.35,2025-07-10,Selected
+550,1090,BrightByte,Software Engineer,16.64,2025-07-06,Selected
+551,1091,BrightByte,Software Engineer,4.66,2025-07-23,Selected
+552,1092,CodeCraft,ML Engineer,26.74,2025-07-23,Selected
+553,1093,InsightLoop,Business Analyst,15.8,2026-02-14,Selected
+554,1095,QuantumWorks,Cloud Associate,14.03,2025-12-17,Selected
+555,1096,InsightLoop,QA Engineer,18.63,2025-09-11,Selected
+556,1097,CloudSprint,Cloud Associate,15.11,2025-07-23,Selected
+557,1098,Apex Systems,Data Analyst,3.58,2026-02-15,Selected
+558,1099,CodeCraft,Data Analyst,7.6,2026-06-22,Selected
+559,1100,InnoWave,Cloud Associate,10.37,2026-01-08,Selected
+560,1101,BlueOrbit,ML Engineer,6.18,2025-11-26,Selected
+561,1102,DataNest,ML Engineer,13.24,2025-01-14,Selected
+562,1107,CloudSprint,Backend Developer,12.45,2026-04-05,Selected
+563,1110,NexGen Labs,Backend Developer,17.28,2026-01-29,Selected
+564,1111,Vertex Digital,ML Engineer,13.62,2026-05-31,Selected
+565,1112,BrightByte,Software Engineer,16.57,2025-02-16,Selected
+566,1119,InsightLoop,Cloud Associate,9.69,2025-06-09,Selected
+567,1120,InsightLoop,Data Analyst,10.36,2026-08-07,Selected
+568,1121,DataNest,Software Engineer,5.82,2026-09-15,Selected
+569,1123,CloudSprint,ML Engineer,4.98,2025-02-14,Selected
+570,1130,QuantumWorks,ML Engineer,8.36,2025-10-16,Selected
+571,1133,DataNest,Business Analyst,15.93,2025-01-03,Selected
+572,1134,InnoWave,Data Analyst,5.17,2025-10-13,Selected
+573,1135,CodeCraft,Data Analyst,23.15,2025-05-22,Selected
+574,1141,CloudSprint,Cloud Associate,4.83,2026-01-16,Selected
+575,1143,BrightByte,Backend Developer,20.61,2026-06-25,Selected
+576,1146,InsightLoop,Data Analyst,15.8,2026-08-09,Selected
+577,1147,DataNest,Business Analyst,6.28,2025-02-27,Selected
+578,1148,InnoWave,Cloud Associate,5.47,2026-01-25,Selected
+579,1149,Vertex Digital,Software Engineer,7.23,2025-09-03,Selected
+580,1153,InsightLoop,QA Engineer,11.62,2025-04-10,Selected
+581,1154,BlueOrbit,Software Engineer,7.21,2025-06-15,Selected
+582,1157,QuantumWorks,QA Engineer,6.13,2025-09-02,Selected
+583,1160,CloudSprint,Data Analyst,8.3,2026-01-08,Selected
+584,1161,BlueOrbit,Software Engineer,17.58,2025-05-07,Selected
+585,1166,BlueOrbit,Software Engineer,16.5,2026-07-02,Selected
+586,1168,TechNova,QA Engineer,10.32,2025-04-28,Selected
+587,1169,Apex Systems,Software Engineer,27.47,2026-03-17,Selected
+588,1171,TechNova,Software Engineer,8.01,2025-09-23,Selected
+589,1178,InnoWave,Software Engineer,8.55,2025-01-15,Selected
+590,1181,InsightLoop,QA Engineer,19.04,2026-03-24,Selected
+591,1186,CodeCraft,Cloud Associate,9.19,2026-04-21,Selected
+592,1189,Apex Systems,QA Engineer,27.82,2026-08-09,Selected
+593,1190,CodeCraft,Backend Developer,4.93,2026-03-16,Selected
+594,1191,CodeCraft,QA Engineer,10.56,2025-05-10,Selected
+595,1193,InsightLoop,Cloud Associate,12.87,2026-08-09,Selected
+596,1195,CodeCraft,Software Engineer,26.41,2025-03-26,Selected
+597,1196,InnoWave,Business Analyst,4.16,2025-04-06,Selected
+598,1198,CodeCraft,QA Engineer,12.89,2025-07-02,Selected
+599,1199,InsightLoop,ML Engineer,5.38,2025-01-06,Selected
+600,1200,DataNest,Data Analyst,4.22,2025-08-11,Selected
+601,1201,BlueOrbit,Cloud Associate,19.47,2026-07-19,Selected
+602,1203,BlueOrbit,Backend Developer,9.5,2026-05-15,Selected
+603,1204,InnoWave,ML Engineer,6.0,2026-03-16,Selected
+604,1206,CodeCraft,ML Engineer,5.28,2025-09-09,Selected
+605,1207,InnoWave,Data Analyst,14.9,2025-08-07,Selected
+606,1211,BrightByte,Data Analyst,25.84,2025-01-05,Selected
+607,1213,NexGen Labs,ML Engineer,18.5,2026-05-21,Selected
+608,1215,InsightLoop,Backend Developer,15.92,2025-11-27,Selected
+609,1218,InnoWave,Business Analyst,6.44,2026-04-17,Selected
+610,1221,InsightLoop,Business Analyst,19.66,2025-09-06,Selected
+611,1223,BrightByte,Cloud Associate,15.88,2026-06-11,Selected
+612,1227,BrightByte,Software Engineer,14.59,2026-06-28,Selected
+613,1228,CloudSprint,Software Engineer,7.09,2026-03-28,Selected
+614,1229,BlueOrbit,QA Engineer,10.94,2025-10-10,Selected
+615,1231,InsightLoop,Business Analyst,5.98,2026-02-07,Selected
+616,1232,TechNova,Software Engineer,7.32,2026-09-03,Selected
+617,1234,BrightByte,Software Engineer,4.01,2025-12-09,Selected
+618,1235,TechNova,Business Analyst,15.08,2025-09-11,Selected
+619,1236,CloudSprint,ML Engineer,22.49,2025-05-31,Selected
+620,1239,TechNova,Data Analyst,8.36,2025-05-26,Selected
+621,1240,BrightByte,Cloud Associate,12.58,2026-01-22,Selected
+622,1242,QuantumWorks,Software Engineer,20.69,2026-06-17,Selected
+623,1244,CloudSprint,Business Analyst,10.3,2025-11-07,Selected
+624,1245,TechNova,Software Engineer,19.68,2025-12-27,Selected
+625,1246,Apex Systems,Backend Developer,27.9,2025-05-27,Selected
+626,1247,CloudSprint,ML Engineer,9.34,2026-01-31,Selected
+627,1248,NexGen Labs,QA Engineer,9.63,2025-07-24,Selected
+628,1249,InsightLoop,ML Engineer,16.4,2025-05-22,Selected
+629,1250,NexGen Labs,Software Engineer,3.4,2026-07-27,Selected
+630,1251,QuantumWorks,ML Engineer,12.31,2025-05-11,Selected
+631,1252,CodeCraft,Software Engineer,4.84,2025-03-28,Selected
+632,1253,TechNova,Cloud Associate,21.61,2026-06-08,Selected
+633,1256,CloudSprint,Backend Developer,6.71,2025-04-10,Selected
+634,1257,Apex Systems,Business Analyst,27.58,2026-05-11,Selected
+635,1259,BlueOrbit,ML Engineer,8.41,2026-07-14,Selected
+636,1260,NexGen Labs,Data Analyst,14.87,2025-04-20,Selected
+637,1261,CodeCraft,QA Engineer,19.31,2025-02-04,Selected
+638,1264,InsightLoop,Business Analyst,11.81,2026-07-31,Selected
+639,1267,DataNest,Data Analyst,24.37,2025-01-31,Selected
+640,1269,InsightLoop,Software Engineer,4.42,2025-04-28,Selected
+641,1272,CloudSprint,Data Analyst,27.02,2026-10-07,Selected
+642,1275,CloudSprint,QA Engineer,18.82,2026-03-14,Selected
+643,1276,InnoWave,Software Engineer,18.24,2025-02-22,Selected
+644,1285,Apex Systems,QA Engineer,4.15,2025-02-26,Selected
+645,1287,InnoWave,Backend Developer,8.28,2026-01-12,Selected
+646,1288,TechNova,Business Analyst,17.42,2026-07-04,Selected
+647,1289,QuantumWorks,Cloud Associate,7.71,2025-02-14,Selected
+648,1290,Vertex Digital,Data Analyst,9.63,2025-03-20,Selected
+649,1291,BrightByte,Business Analyst,14.7,2026-01-11,Selected
+650,1292,Apex Systems,Data Analyst,7.2,2026-05-13,Selected
+651,1294,BrightByte,ML Engineer,15.54,2026-05-26,Selected
+652,1297,InnoWave,Business Analyst,25.8,2025-01-27,Selected
+653,1298,InsightLoop,Cloud Associate,13.01,2026-07-21,Selected
+654,1299,TechNova,ML Engineer,6.73,2025-09-01,Selected
+655,1301,QuantumWorks,Cloud Associate,4.86,2025-01-13,Selected
+656,1302,InnoWave,Backend Developer,4.41,2026-04-23,Selected
+657,1303,CloudSprint,Backend Developer,7.71,2026-07-19,Selected
+658,1304,Apex Systems,Software Engineer,19.57,2026-09-25,Selected
+659,1307,Apex Systems,Data Analyst,10.67,2025-04-26,Selected
+660,1309,InnoWave,Software Engineer,4.26,2026-09-29,Selected
+661,1317,NexGen Labs,Cloud Associate,9.5,2026-07-05,Selected
+662,1318,DataNest,QA Engineer,9.32,2026-02-23,Selected
+663,1320,DataNest,Software Engineer,4.09,2026-03-18,Selected
+664,1322,InnoWave,Backend Developer,5.31,2025-02-16,Selected
+665,1325,CloudSprint,Data Analyst,17.17,2025-10-14,Selected
+666,1326,DataNest,Software Engineer,22.05,2025-11-23,Selected
+667,1328,DataNest,ML Engineer,9.58,2026-05-14,Selected
+668,1330,TechNova,Backend Developer,14.98,2026-07-05,Selected
+669,1331,InsightLoop,Cloud Associate,16.77,2025-10-30,Selected
+670,1332,CloudSprint,Cloud Associate,17.53,2025-04-30,Selected
+671,1333,TechNova,Backend Developer,16.38,2025-11-19,Selected
+672,1334,NexGen Labs,Business Analyst,6.85,2025-09-09,Selected
+673,1335,CloudSprint,QA Engineer,8.37,2025-05-15,Selected
+674,1336,DataNest,Software Engineer,6.13,2026-09-18,Selected
+675,1337,BrightByte,Cloud Associate,15.61,2025-11-04,Selected
+676,1338,BrightByte,Backend Developer,4.69,2025-08-13,Selected
+677,1339,NexGen Labs,Cloud Associate,8.21,2025-04-27,Selected
+678,1344,CloudSprint,Business Analyst,23.16,2025-01-22,Selected
+679,1347,NexGen Labs,Business Analyst,6.01,2026-06-24,Selected
+680,1348,InsightLoop,Software Engineer,3.51,2025-09-11,Selected
+681,1349,InsightLoop,Backend Developer,13.83,2026-06-01,Selected
+682,1350,QuantumWorks,Business Analyst,8.26,2026-02-05,Selected
+683,1352,InsightLoop,QA Engineer,10.47,2026-05-10,Selected
+684,1354,BrightByte,ML Engineer,4.63,2026-07-31,Selected
+685,1356,BlueOrbit,ML Engineer,4.94,2025-08-27,Selected
+686,1358,InnoWave,Cloud Associate,11.18,2026-05-16,Selected
+687,1359,TechNova,Data Analyst,12.7,2025-03-21,Selected
+688,1360,Vertex Digital,Backend Developer,5.56,2026-05-23,Selected
+689,1361,InsightLoop,Cloud Associate,27.9,2026-03-22,Selected
+690,1365,Apex Systems,Cloud Associate,13.52,2025-11-16,Selected
+691,1366,TechNova,Data Analyst,11.95,2025-08-20,Selected
+692,1368,DataNest,Business Analyst,11.45,2025-09-27,Selected
+693,1369,TechNova,Business Analyst,6.14,2026-04-30,Selected
+694,1372,NexGen Labs,Cloud Associate,8.9,2026-07-28,Selected
+695,1375,Apex Systems,QA Engineer,13.93,2025-12-21,Selected
+696,1376,TechNova,QA Engineer,10.89,2026-01-05,Selected
+697,1377,CodeCraft,Backend Developer,19.36,2025-02-04,Selected
+698,1380,CloudSprint,Software Engineer,4.24,2025-05-15,Selected
+699,1381,InnoWave,Cloud Associate,15.56,2025-12-07,Selected
+700,1382,CodeCraft,Software Engineer,24.02,2026-03-03,Selected
+701,1383,InsightLoop,QA Engineer,18.41,2025-10-10,Selected
+702,1385,CloudSprint,Data Analyst,4.74,2025-04-01,Selected
+703,1387,CodeCraft,Cloud Associate,7.62,2025-09-10,Selected
+704,1389,BrightByte,ML Engineer,7.84,2025-07-24,Selected
+705,1391,CodeCraft,Business Analyst,12.69,2025-12-22,Selected
+706,1393,DataNest,Backend Developer,12.87,2026-06-14,Selected
+707,1394,TechNova,Data Analyst,12.29,2026-10-07,Selected
+708,1396,QuantumWorks,Cloud Associate,14.68,2026-09-24,Selected
+709,1398,BrightByte,QA Engineer,9.39,2026-03-08,Selected
+710,1400,BlueOrbit,Backend Developer,23.14,2025-05-25,Selected
+711,1401,Apex Systems,Backend Developer,9.29,2025-07-09,Selected
+712,1402,CodeCraft,Backend Developer,15.03,2025-04-13,Selected
+713,1405,TechNova,QA Engineer,8.1,2026-01-06,Selected
+714,1407,BlueOrbit,Software Engineer,12.98,2025-11-15,Selected
+715,1408,TechNova,Data Analyst,23.19,2026-02-19,Selected
+716,1409,BrightByte,Backend Developer,22.4,2026-03-09,Selected
+717,1410,CloudSprint,Business Analyst,27.31,2026-07-02,Selected
+718,1411,InsightLoop,QA Engineer,26.73,2025-12-12,Selected
+719,1412,BlueOrbit,ML Engineer,24.76,2025-05-05,Selected
+720,1413,BrightByte,ML Engineer,10.05,2026-07-10,Selected
+721,1414,Vertex Digital,Cloud Associate,13.98,2026-01-01,Selected
+722,1423,TechNova,Business Analyst,13.48,2025-01-06,Selected
+723,1424,Apex Systems,Software Engineer,13.64,2025-01-19,Selected
+724,1427,QuantumWorks,Software Engineer,19.69,2025-02-03,Selected
+725,1428,InnoWave,Backend Developer,7.38,2025-11-08,Selected
+726,1431,CloudSprint,QA Engineer,6.17,2025-08-12,Selected
+727,1433,InnoWave,QA Engineer,14.43,2026-10-11,Selected
+728,1435,CodeCraft,Backend Developer,8.75,2025-04-11,Selected
+729,1436,QuantumWorks,QA Engineer,17.98,2026-05-31,Selected
+730,1440,Apex Systems,QA Engineer,25.41,2025-03-08,Selected
+731,1443,InsightLoop,QA Engineer,17.36,2026-03-04,Selected
+732,1444,InsightLoop,Business Analyst,23.79,2026-02-12,Selected
+733,1447,CodeCraft,Cloud Associate,5.88,2025-09-28,Selected
+734,1450,BrightByte,Cloud Associate,13.71,2026-01-07,Selected
+735,1451,NexGen Labs,ML Engineer,18.38,2025-05-31,Selected
+736,1452,InsightLoop,Business Analyst,13.82,2026-01-08,Selected
+737,1459,Vertex Digital,Business Analyst,15.7,2026-07-02,Selected
+738,1460,CodeCraft,Business Analyst,20.4,2025-07-07,Selected
+739,1461,InsightLoop,Data Analyst,10.3,2026-07-20,Selected
+740,1464,BlueOrbit,ML Engineer,6.22,2026-08-27,Selected
+741,1467,BrightByte,Cloud Associate,9.6,2026-06-29,Selected
+742,1468,DataNest,Data Analyst,10.06,2026-06-06,Selected
+743,1469,Apex Systems,Data Analyst,22.58,2025-07-18,Selected
+744,1471,Vertex Digital,Backend Developer,7.89,2025-06-10,Selected
+745,1476,InsightLoop,Data Analyst,17.17,2025-11-30,Selected
+746,1477,InsightLoop,QA Engineer,13.84,2025-11-30,Selected
+747,1478,CodeCraft,ML Engineer,4.52,2025-03-02,Selected
+748,1481,BrightByte,Cloud Associate,11.35,2025-09-24,Selected
+749,1482,BlueOrbit,Data Analyst,8.01,2025-08-08,Selected
+750,1484,NexGen Labs,Software Engineer,3.9,2026-01-18,Selected
+751,1486,CodeCraft,Backend Developer,21.92,2025-07-15,Selected
+752,1488,NexGen Labs,Software Engineer,18.78,2025-01-07,Selected
+753,1489,CodeCraft,Cloud Associate,16.54,2025-12-01,Selected
+754,1491,CloudSprint,ML Engineer,12.04,2026-07-08,Selected
+755,1497,BrightByte,QA Engineer,8.4,2026-06-04,Selected
+756,1498,NexGen Labs,Business Analyst,24.0,2025-11-14,Selected
+757,1500,Apex Systems,Business Analyst,5.0,2025-02-09,Selected
+758,1503,TechNova,ML Engineer,4.2,2025-11-25,Selected
+759,1505,BlueOrbit,Backend Developer,27.23,2025-04-26,Selected
+760,1509,CloudSprint,Data Analyst,25.23,2025-10-17,Selected
+761,1510,BrightByte,Business Analyst,16.16,2026-06-17,Selected
+762,1511,TechNova,Data Analyst,27.5,2025-07-22,Selected
+763,1512,QuantumWorks,Backend Developer,5.82,2025-12-19,Selected
+764,1513,DataNest,ML Engineer,8.06,2025-12-12,Selected
+765,1514,BrightByte,Software Engineer,22.2,2025-12-17,Selected
+766,1515,DataNest,Business Analyst,13.69,2026-07-18,Selected
+767,1516,Vertex Digital,Data Analyst,13.24,2025-07-06,Selected
+768,1517,Vertex Digital,Software Engineer,24.57,2026-07-31,Selected
+769,1518,QuantumWorks,Data Analyst,12.51,2026-10-13,Selected
+770,1521,NexGen Labs,Data Analyst,3.89,2025-03-10,Selected
+771,1523,InsightLoop,QA Engineer,4.85,2026-02-16,Selected
+772,1524,Vertex Digital,Software Engineer,10.81,2025-05-01,Selected
+773,1525,InsightLoop,ML Engineer,5.31,2026-04-11,Selected
+774,1528,CodeCraft,Software Engineer,13.83,2026-03-19,Selected
+775,1534,QuantumWorks,Business Analyst,15.78,2026-03-27,Selected
+776,1540,CloudSprint,Cloud Associate,16.71,2025-04-14,Selected
+777,1544,DataNest,Backend Developer,8.31,2026-06-30,Selected
+778,1546,InsightLoop,Data Analyst,9.0,2026-05-22,Selected
+779,1548,QuantumWorks,Backend Developer,13.29,2026-08-18,Selected
+780,1551,InsightLoop,Cloud Associate,21.14,2025-08-22,Selected
+781,1552,QuantumWorks,Backend Developer,9.57,2026-09-26,Selected
+782,1553,DataNest,Software Engineer,24.76,2026-05-04,Selected
+783,1555,QuantumWorks,Business Analyst,7.96,2025-11-08,Selected
+784,1557,Apex Systems,QA Engineer,13.99,2025-06-15,Selected
+785,1558,CodeCraft,Backend Developer,11.61,2026-02-18,Selected
+786,1559,BrightByte,Backend Developer,13.61,2025-07-01,Selected
+787,1560,Vertex Digital,ML Engineer,21.92,2026-04-08,Selected
+788,1561,NexGen Labs,ML Engineer,3.61,2025-01-13,Selected
+789,1564,BlueOrbit,Software Engineer,23.45,2025-06-02,Selected
+790,1566,BlueOrbit,Cloud Associate,26.04,2026-09-20,Selected
+791,1568,Vertex Digital,Software Engineer,4.48,2026-08-29,Selected
+792,1573,TechNova,ML Engineer,11.01,2025-02-19,Selected
+793,1577,Apex Systems,ML Engineer,27.68,2025-07-01,Selected
+794,1578,InsightLoop,Business Analyst,13.21,2026-03-09,Selected
+795,1582,Vertex Digital,ML Engineer,4.0,2026-05-16,Selected
+796,1583,CloudSprint,Backend Developer,6.16,2025-09-25,Selected
+797,1585,InnoWave,Backend Developer,9.54,2025-09-05,Selected
+798,1589,BlueOrbit,Software Engineer,4.12,2026-03-26,Selected
+799,1590,CloudSprint,Backend Developer,4.67,2025-02-28,Selected
+800,1592,Apex Systems,Business Analyst,4.79,2026-08-04,Selected
+801,1593,InsightLoop,Data Analyst,8.8,2026-09-23,Selected
+802,1594,CodeCraft,Cloud Associate,5.17,2025-08-18,Selected
+803,1596,NexGen Labs,Backend Developer,17.13,2025-08-02,Selected
+804,1598,BlueOrbit,QA Engineer,12.4,2026-09-26,Selected
+805,1599,QuantumWorks,Backend Developer,7.5,2026-04-09,Selected
+806,1600,BlueOrbit,Software Engineer,7.92,2026-03-19,Selected
+807,1605,InnoWave,QA Engineer,24.1,2025-11-11,Selected
+808,1607,NexGen Labs,Data Analyst,25.8,2026-06-30,Selected
+809,1610,QuantumWorks,QA Engineer,26.31,2026-01-07,Selected
+810,1612,InsightLoop,Business Analyst,11.36,2026-10-12,Selected
+811,1614,BrightByte,Backend Developer,20.66,2025-09-02,Selected
+812,1616,CodeCraft,ML Engineer,4.38,2026-02-02,Selected
+813,1620,InsightLoop,Business Analyst,21.22,2025-01-10,Selected
+814,1621,InsightLoop,Data Analyst,6.49,2026-09-20,Selected
+815,1623,Vertex Digital,Data Analyst,11.35,2026-02-01,Selected
+816,1625,BrightByte,Data Analyst,17.61,2025-06-30,Selected
+817,1627,NexGen Labs,QA Engineer,10.77,2026-08-30,Selected
+818,1628,DataNest,Software Engineer,7.22,2025-09-15,Selected
+819,1634,NexGen Labs,Backend Developer,14.07,2025-05-26,Selected
+820,1635,CodeCraft,Data Analyst,22.89,2026-03-21,Selected
+821,1637,QuantumWorks,Cloud Associate,5.85,2025-08-22,Selected
+822,1639,TechNova,ML Engineer,13.7,2025-08-10,Selected
+823,1640,InnoWave,Business Analyst,8.12,2025-10-16,Selected
+824,1645,QuantumWorks,Cloud Associate,15.53,2026-06-26,Selected
+825,1647,InnoWave,Backend Developer,14.76,2025-05-30,Selected
+826,1649,BrightByte,Data Analyst,23.07,2026-06-21,Selected
+827,1651,DataNest,QA Engineer,12.86,2026-10-03,Selected
+828,1652,DataNest,ML Engineer,5.44,2025-10-19,Selected
+829,1653,NexGen Labs,Cloud Associate,4.12,2026-07-18,Selected
+830,1654,QuantumWorks,Software Engineer,17.36,2025-11-28,Selected
+831,1657,NexGen Labs,Cloud Associate,5.02,2026-07-13,Selected
+832,1662,TechNova,Data Analyst,11.25,2026-03-01,Selected
+833,1666,BlueOrbit,Software Engineer,19.44,2025-05-03,Selected
+834,1670,Apex Systems,Backend Developer,15.91,2025-07-05,Selected
+835,1671,CodeCraft,Business Analyst,11.95,2026-07-29,Selected
+836,1674,InsightLoop,ML Engineer,17.56,2025-07-15,Selected
+837,1675,BlueOrbit,Business Analyst,6.98,2025-11-06,Selected
+838,1678,BlueOrbit,Backend Developer,4.23,2026-01-22,Selected
+839,1680,CodeCraft,Software Engineer,15.16,2026-04-04,Selected
+840,1681,QuantumWorks,ML Engineer,8.46,2025-10-21,Selected
+841,1682,InnoWave,Backend Developer,14.03,2025-11-25,Selected
+842,1683,NexGen Labs,ML Engineer,20.05,2026-05-22,Selected
+843,1685,InnoWave,QA Engineer,5.18,2026-10-03,Selected
+844,1688,InsightLoop,Business Analyst,6.36,2026-05-16,Selected
+845,1689,CodeCraft,Backend Developer,6.39,2025-04-19,Selected
+846,1692,DataNest,Business Analyst,4.82,2025-10-30,Selected
+847,1693,QuantumWorks,ML Engineer,3.16,2026-02-17,Selected
+848,1694,BlueOrbit,ML Engineer,27.44,2026-05-19,Selected
+849,1695,InnoWave,Cloud Associate,18.7,2026-08-25,Selected
+850,1699,BlueOrbit,Software Engineer,17.03,2025-01-29,Selected
+851,1701,QuantumWorks,ML Engineer,4.48,2025-06-16,Selected
+852,1707,Apex Systems,Data Analyst,10.61,2026-02-15,Selected
+853,1708,BlueOrbit,Software Engineer,17.16,2026-01-18,Selected
+854,1709,TechNova,QA Engineer,3.17,2026-02-05,Selected
+855,1711,CodeCraft,QA Engineer,11.3,2026-02-02,Selected
+856,1712,Apex Systems,Cloud Associate,11.49,2025-03-16,Selected
+857,1713,TechNova,Business Analyst,14.29,2025-03-03,Selected
+858,1714,Vertex Digital,Backend Developer,15.24,2025-05-11,Selected
+859,1717,BlueOrbit,QA Engineer,26.02,2025-12-01,Selected
+860,1721,QuantumWorks,Backend Developer,10.32,2026-02-26,Selected
+861,1723,InsightLoop,ML Engineer,6.37,2025-06-27,Selected
+862,1726,Vertex Digital,QA Engineer,26.4,2026-04-11,Selected
+863,1727,NexGen Labs,Backend Developer,4.62,2026-09-02,Selected
+864,1728,Vertex Digital,QA Engineer,10.3,2025-03-13,Selected
+865,1730,QuantumWorks,Business Analyst,18.65,2025-08-14,Selected
+866,1731,DataNest,Business Analyst,22.18,2025-11-21,Selected
+867,1733,DataNest,Data Analyst,9.89,2025-09-05,Selected
+868,1734,CloudSprint,Business Analyst,8.73,2026-04-02,Selected
+869,1735,Apex Systems,Cloud Associate,22.24,2026-07-09,Selected
+870,1737,NexGen Labs,Data Analyst,5.53,2026-01-22,Selected
+871,1738,CodeCraft,QA Engineer,27.04,2026-04-26,Selected
+872,1739,TechNova,Backend Developer,12.31,2025-12-20,Selected
+873,1740,DataNest,Data Analyst,10.18,2025-09-24,Selected
+874,1742,CloudSprint,QA Engineer,4.73,2026-07-21,Selected
+875,1743,CloudSprint,Data Analyst,7.58,2025-11-16,Selected
+876,1749,QuantumWorks,Business Analyst,23.94,2026-09-16,Selected
+877,1750,TechNova,Software Engineer,19.18,2025-06-15,Selected
+878,1751,BlueOrbit,Cloud Associate,16.33,2026-02-18,Selected
+879,1753,NexGen Labs,Backend Developer,4.73,2025-11-02,Selected
+880,1754,DataNest,Backend Developer,14.63,2026-03-22,Selected
+881,1756,DataNest,Cloud Associate,9.51,2025-02-22,Selected
+882,1757,Vertex Digital,QA Engineer,12.19,2025-10-29,Selected
+883,1759,NexGen Labs,ML Engineer,3.36,2026-01-16,Selected
+884,1763,BrightByte,Backend Developer,12.25,2025-04-06,Selected
+885,1764,DataNest,Backend Developer,13.73,2025-07-18,Selected
+886,1767,BrightByte,QA Engineer,26.91,2026-04-26,Selected
+887,1770,BrightByte,Software Engineer,15.03,2025-11-04,Selected
+888,1772,DataNest,QA Engineer,5.49,2025-11-03,Selected
+889,1773,BlueOrbit,Software Engineer,5.31,2026-03-19,Selected
+890,1774,BrightByte,Data Analyst,24.31,2026-03-17,Selected
+891,1777,CloudSprint,Software Engineer,19.82,2026-01-01,Selected
+892,1778,BlueOrbit,Software Engineer,23.69,2026-02-05,Selected
+893,1780,QuantumWorks,Data Analyst,5.85,2026-06-12,Selected
+894,1784,InsightLoop,Software Engineer,4.89,2026-04-05,Selected
+895,1785,BrightByte,Cloud Associate,21.37,2026-07-20,Selected
+896,1786,BlueOrbit,Backend Developer,13.04,2025-09-16,Selected
+897,1790,CodeCraft,ML Engineer,14.56,2025-02-09,Selected
+898,1791,DataNest,ML Engineer,6.03,2026-05-29,Selected
+899,1798,CloudSprint,Business Analyst,9.45,2025-01-03,Selected
+900,1802,InsightLoop,Cloud Associate,4.95,2025-04-12,Selected
+901,1803,BrightByte,ML Engineer,5.89,2026-01-06,Selected
+902,1804,BrightByte,Data Analyst,3.99,2025-09-03,Selected
+903,1805,InnoWave,Business Analyst,22.74,2025-10-12,Selected
+904,1807,NexGen Labs,Software Engineer,24.41,2025-12-15,Selected
+905,1808,InsightLoop,Cloud Associate,14.6,2026-05-11,Selected
+906,1809,TechNova,Software Engineer,8.38,2026-01-13,Selected
+907,1810,BlueOrbit,Software Engineer,17.54,2025-01-08,Selected
+908,1811,Vertex Digital,Cloud Associate,15.61,2026-04-30,Selected
+909,1813,BrightByte,ML Engineer,27.98,2026-01-24,Selected
+910,1816,CloudSprint,Data Analyst,7.77,2025-12-08,Selected
+911,1817,CloudSprint,Business Analyst,14.32,2026-07-18,Selected
+912,1820,BrightByte,Data Analyst,16.78,2026-02-20,Selected
+913,1826,QuantumWorks,Backend Developer,6.84,2025-12-19,Selected
+914,1828,InsightLoop,Data Analyst,21.8,2025-07-15,Selected
+915,1831,DataNest,Data Analyst,8.56,2025-12-16,Selected
+916,1833,CodeCraft,Data Analyst,16.05,2025-07-12,Selected
+917,1836,BlueOrbit,ML Engineer,5.1,2026-06-27,Selected
+918,1837,BlueOrbit,Data Analyst,15.27,2025-06-14,Selected
+919,1838,CloudSprint,ML Engineer,9.74,2026-06-19,Selected
+920,1839,Apex Systems,Business Analyst,6.78,2025-10-17,Selected
+921,1841,BrightByte,Cloud Associate,6.16,2025-07-11,Selected
+922,1843,InnoWave,Backend Developer,15.87,2025-02-16,Selected
+923,1847,Apex Systems,QA Engineer,5.79,2025-08-03,Selected
+924,1852,Apex Systems,Data Analyst,19.85,2025-01-22,Selected
+925,1853,BlueOrbit,Software Engineer,4.99,2025-07-22,Selected
+926,1854,BrightByte,Business Analyst,8.5,2025-07-29,Selected
+927,1855,Vertex Digital,Data Analyst,8.62,2025-06-25,Selected
+928,1861,DataNest,Software Engineer,23.02,2025-04-29,Selected
+929,1864,CloudSprint,Data Analyst,11.16,2026-09-14,Selected
+930,1866,QuantumWorks,Backend Developer,16.19,2025-04-02,Selected
+931,1867,TechNova,Business Analyst,4.23,2025-12-12,Selected
+932,1869,CloudSprint,Backend Developer,26.85,2026-05-08,Selected
+933,1870,Vertex Digital,Cloud Associate,14.92,2025-04-28,Selected
+934,1871,BlueOrbit,QA Engineer,15.18,2026-07-07,Selected
+935,1873,NexGen Labs,ML Engineer,25.2,2025-09-25,Selected
+936,1875,DataNest,Business Analyst,8.49,2025-02-20,Selected
+937,1877,CloudSprint,Software Engineer,8.03,2026-06-23,Selected
+938,1881,QuantumWorks,Cloud Associate,13.45,2025-05-25,Selected
+939,1882,InsightLoop,Data Analyst,25.05,2025-09-06,Selected
+940,1883,TechNova,Business Analyst,5.51,2025-09-15,Selected
+941,1888,InsightLoop,Software Engineer,14.91,2025-05-18,Selected
+942,1889,Apex Systems,Data Analyst,6.07,2025-09-02,Selected
+943,1893,QuantumWorks,Business Analyst,17.34,2025-03-20,Selected
+944,1894,TechNova,Data Analyst,16.38,2026-06-22,Selected
+945,1896,BlueOrbit,ML Engineer,19.1,2026-04-29,Selected
+946,1898,CloudSprint,Business Analyst,4.06,2026-09-11,Selected
+947,1899,QuantumWorks,Data Analyst,15.57,2025-12-18,Selected
+948,1901,InsightLoop,Cloud Associate,17.01,2025-09-19,Selected
+949,1904,Apex Systems,ML Engineer,10.8,2025-02-26,Selected
+950,1908,Vertex Digital,Business Analyst,18.72,2025-05-27,Selected
+951,1909,Apex Systems,ML Engineer,27.64,2026-06-25,Selected
+952,1910,QuantumWorks,Cloud Associate,19.31,2025-08-28,Selected
+953,1911,QuantumWorks,QA Engineer,15.93,2025-02-18,Selected
+954,1912,QuantumWorks,Business Analyst,17.88,2026-04-09,Selected
+955,1915,QuantumWorks,Software Engineer,7.1,2025-09-12,Selected
+956,1917,Vertex Digital,Backend Developer,20.64,2026-09-30,Selected
+957,1918,InsightLoop,Data Analyst,11.08,2025-08-10,Selected
+958,1923,CloudSprint,Cloud Associate,23.31,2026-05-09,Selected
+959,1926,DataNest,Backend Developer,23.9,2025-01-31,Selected
+960,1928,CloudSprint,Backend Developer,4.67,2025-01-27,Selected
+961,1929,NexGen Labs,Business Analyst,3.81,2025-11-26,Selected
+962,1931,BrightByte,Backend Developer,9.64,2026-03-28,Selected
+963,1932,QuantumWorks,Data Analyst,19.95,2026-02-26,Selected
+964,1933,QuantumWorks,Software Engineer,17.35,2025-06-14,Selected
+965,1936,DataNest,Cloud Associate,24.31,2025-07-29,Selected
+966,1937,Vertex Digital,Cloud Associate,9.33,2026-03-09,Selected
+967,1938,CodeCraft,QA Engineer,5.32,2026-04-04,Selected
+968,1939,NexGen Labs,ML Engineer,6.95,2025-02-18,Selected
+969,1941,DataNest,Backend Developer,6.15,2026-07-02,Selected
+970,1942,QuantumWorks,QA Engineer,16.17,2025-04-05,Selected
+971,1943,CodeCraft,QA Engineer,14.77,2026-05-19,Selected
+972,1945,InsightLoop,Software Engineer,21.88,2026-08-10,Selected
+973,1948,DataNest,Data Analyst,4.27,2025-05-28,Selected
+974,1949,InnoWave,QA Engineer,3.86,2026-01-10,Selected
+975,1950,QuantumWorks,Data Analyst,4.09,2025-06-28,Selected
+976,1951,QuantumWorks,QA Engineer,14.03,2025-08-29,Selected
+977,1956,DataNest,Data Analyst,5.75,2026-03-28,Selected
+978,1957,CloudSprint,QA Engineer,8.71,2025-10-09,Selected
+979,1959,BlueOrbit,Cloud Associate,17.63,2026-06-13,Selected
+980,1960,Apex Systems,ML Engineer,20.22,2025-07-10,Selected
+981,1961,BlueOrbit,QA Engineer,11.63,2026-09-27,Selected
+982,1962,Vertex Digital,Backend Developer,7.97,2025-09-15,Selected
+983,1963,BrightByte,Business Analyst,14.09,2026-06-30,Selected
+984,1964,InnoWave,Data Analyst,13.27,2025-03-23,Selected
+985,1967,InsightLoop,Backend Developer,6.1,2026-06-01,Selected
+986,1968,CodeCraft,ML Engineer,22.02,2025-11-25,Selected
+987,1969,DataNest,Software Engineer,11.99,2026-05-08,Selected
+988,1970,Apex Systems,Backend Developer,24.04,2025-03-30,Selected
+989,1971,InnoWave,QA Engineer,21.36,2025-08-10,Selected
+990,1975,TechNova,QA Engineer,15.09,2026-06-21,Selected
+991,1976,InnoWave,Backend Developer,15.85,2026-07-26,Selected
+992,1979,InnoWave,Business Analyst,13.84,2026-08-26,Selected
+993,1982,DataNest,Cloud Associate,26.98,2025-03-16,Selected
+994,1984,Vertex Digital,QA Engineer,10.93,2025-10-18,Selected
+995,1987,CloudSprint,QA Engineer,26.77,2025-08-03,Selected
+996,1989,NexGen Labs,Cloud Associate,5.77,2026-10-02,Selected
+997,1990,DataNest,Business Analyst,4.09,2025-12-20,Selected
+998,1991,InsightLoop,ML Engineer,7.81,2026-04-21,Selected
+999,1992,CloudSprint,QA Engineer,5.14,2025-11-30,Selected
+1000,1993,CloudSprint,Cloud Associate,13.77,2025-07-06,Selected
+1001,1998,BrightByte,ML Engineer,11.34,2025-07-28,Selected
+1002,2000,CloudSprint,Data Analyst,21.03,2026-09-18,Selected
+1003,2002,InnoWave,Data Analyst,20.84,2026-05-18,Selected
+1004,2008,QuantumWorks,ML Engineer,24.45,2026-08-10,Selected
+1005,2010,BlueOrbit,ML Engineer,7.54,2025-04-05,Selected
+1006,2011,CloudSprint,Data Analyst,17.88,2026-03-02,Selected
+1007,2013,CodeCraft,Data Analyst,13.55,2026-04-17,Selected
+1008,2017,CodeCraft,Business Analyst,14.66,2025-07-03,Selected
+1009,2019,DataNest,Data Analyst,19.79,2026-08-14,Selected
+1010,2020,Apex Systems,Cloud Associate,15.08,2025-01-02,Selected
+1011,2021,Apex Systems,Backend Developer,5.13,2025-05-02,Selected
+1012,2022,InsightLoop,Business Analyst,26.57,2025-09-23,Selected
+1013,2023,BlueOrbit,Data Analyst,18.55,2026-01-06,Selected
+1014,2024,TechNova,Backend Developer,15.93,2026-03-13,Selected
+1015,2025,DataNest,Business Analyst,26.85,2025-09-25,Selected
+1016,2026,NexGen Labs,Backend Developer,12.24,2025-01-18,Selected
+1017,2027,InnoWave,ML Engineer,13.16,2026-08-28,Selected
+1018,2029,Vertex Digital,Software Engineer,14.96,2025-05-02,Selected
+1019,2031,InsightLoop,Cloud Associate,5.89,2026-06-14,Selected
+1020,2032,Apex Systems,QA Engineer,14.85,2025-03-04,Selected
+1021,2033,Vertex Digital,ML Engineer,12.35,2025-10-22,Selected
+1022,2034,NexGen Labs,Data Analyst,3.26,2025-01-26,Selected
+1023,2035,CloudSprint,QA Engineer,4.23,2026-05-24,Selected
+1024,2036,NexGen Labs,Backend Developer,26.09,2026-03-27,Selected
+1025,2039,BlueOrbit,Software Engineer,10.28,2026-08-26,Selected
+1026,2040,QuantumWorks,Software Engineer,20.56,2026-10-09,Selected
+1027,2044,NexGen Labs,Software Engineer,9.16,2025-04-15,Selected
+1028,2046,QuantumWorks,QA Engineer,11.93,2026-08-29,Selected
+1029,2047,TechNova,QA Engineer,8.75,2025-01-27,Selected
+1030,2048,CodeCraft,Cloud Associate,12.46,2025-01-29,Selected
+1031,2055,CloudSprint,ML Engineer,12.82,2025-07-13,Selected
+1032,2059,NexGen Labs,Software Engineer,22.86,2025-04-01,Selected
+1033,2061,CodeCraft,Software Engineer,5.73,2026-02-12,Selected
+1034,2062,BlueOrbit,QA Engineer,3.38,2026-03-16,Selected
+1035,2063,CodeCraft,Backend Developer,22.12,2026-08-17,Selected
+1036,2064,Apex Systems,QA Engineer,20.57,2026-06-30,Selected
+1037,2065,TechNova,QA Engineer,5.17,2026-08-13,Selected
+1038,2066,QuantumWorks,Cloud Associate,8.37,2025-09-12,Selected
+1039,2068,BrightByte,ML Engineer,4.57,2025-09-12,Selected
+1040,2069,BrightByte,Business Analyst,16.6,2026-01-04,Selected
+1041,2070,InsightLoop,ML Engineer,24.89,2025-02-02,Selected
+1042,2071,InsightLoop,Software Engineer,25.47,2026-05-11,Selected
+1043,2072,InsightLoop,Software Engineer,17.35,2026-07-09,Selected
+1044,2076,BrightByte,Cloud Associate,8.72,2026-06-03,Selected
+1045,2078,Apex Systems,Cloud Associate,27.87,2026-05-05,Selected
+1046,2079,Vertex Digital,Business Analyst,15.49,2025-08-21,Selected
+1047,2080,QuantumWorks,ML Engineer,4.5,2025-05-09,Selected
+1048,2081,QuantumWorks,ML Engineer,19.57,2026-09-01,Selected
+1049,2084,TechNova,QA Engineer,11.83,2026-03-30,Selected
+1050,2086,DataNest,Business Analyst,15.81,2025-05-14,Selected
+1051,2087,TechNova,Cloud Associate,16.88,2025-08-23,Selected
+1052,2088,BlueOrbit,Cloud Associate,9.42,2026-04-08,Selected
+1053,2089,BrightByte,Cloud Associate,4.19,2025-04-17,Selected
+1054,2101,DataNest,Cloud Associate,17.17,2025-05-24,Selected
+1055,2103,TechNova,Data Analyst,10.34,2025-06-20,Selected
+1056,2105,TechNova,ML Engineer,27.08,2026-02-01,Selected
+1057,2106,Apex Systems,ML Engineer,10.04,2025-05-29,Selected
+1058,2110,BlueOrbit,Cloud Associate,12.29,2026-09-10,Selected
+1059,2112,NexGen Labs,QA Engineer,17.41,2026-09-30,Selected
+1060,2116,CloudSprint,Cloud Associate,7.2,2025-04-16,Selected
+1061,2117,Vertex Digital,Software Engineer,10.76,2025-06-26,Selected
+1062,2118,DataNest,Software Engineer,5.78,2025-01-16,Selected
+1063,2119,Vertex Digital,Business Analyst,18.12,2026-10-09,Selected
+1064,2120,InsightLoop,Data Analyst,7.33,2025-04-06,Selected
+1065,2122,CodeCraft,Business Analyst,7.75,2026-08-26,Selected
+1066,2131,Vertex Digital,Data Analyst,22.73,2026-04-16,Selected
+1067,2133,TechNova,Cloud Associate,16.45,2026-04-11,Selected
+1068,2135,TechNova,Business Analyst,17.06,2025-03-22,Selected
+1069,2139,DataNest,Data Analyst,9.54,2025-05-22,Selected
+1070,2142,DataNest,Software Engineer,22.6,2026-03-22,Selected
+1071,2146,BrightByte,Software Engineer,25.24,2025-12-02,Selected
+1072,2147,NexGen Labs,Software Engineer,6.84,2025-04-03,Selected
+1073,2152,QuantumWorks,ML Engineer,23.34,2025-03-14,Selected
+1074,2154,NexGen Labs,QA Engineer,10.83,2026-08-05,Selected
+1075,2157,InnoWave,Business Analyst,3.68,2025-12-07,Selected
+1076,2158,InsightLoop,ML Engineer,17.56,2025-08-07,Selected
+1077,2162,DataNest,QA Engineer,13.44,2025-11-02,Selected
+1078,2163,InnoWave,ML Engineer,14.5,2026-01-04,Selected
+1079,2166,CloudSprint,Software Engineer,25.29,2025-04-15,Selected
+1080,2168,NexGen Labs,Cloud Associate,19.03,2025-06-22,Selected
+1081,2175,InnoWave,Cloud Associate,11.26,2026-09-02,Selected
+1082,2179,CloudSprint,Data Analyst,18.53,2026-10-04,Selected
+1083,2181,QuantumWorks,QA Engineer,27.11,2026-02-22,Selected
+1084,2182,InsightLoop,Data Analyst,4.58,2025-09-27,Selected
+1085,2188,Apex Systems,ML Engineer,6.28,2025-06-03,Selected
+1086,2190,NexGen Labs,QA Engineer,11.34,2026-07-08,Selected
+1087,2192,BlueOrbit,ML Engineer,17.37,2025-12-09,Selected
+1088,2196,InsightLoop,QA Engineer,25.3,2026-04-20,Selected
+1089,2200,NexGen Labs,Software Engineer,11.48,2026-01-10,Selected
+1090,2201,QuantumWorks,Cloud Associate,16.21,2026-08-26,Selected
+1091,2204,BrightByte,ML Engineer,15.06,2025-06-26,Selected
+1092,2206,Apex Systems,Data Analyst,12.38,2025-05-11,Selected
+1093,2207,Vertex Digital,Cloud Associate,16.87,2025-05-15,Selected
+1094,2211,Apex Systems,Software Engineer,12.64,2025-09-07,Selected
+1095,2212,CodeCraft,Business Analyst,5.96,2026-02-10,Selected
+1096,2213,Apex Systems,Data Analyst,18.47,2025-04-09,Selected
+1097,2215,TechNova,ML Engineer,6.42,2025-08-12,Selected
+1098,2216,NexGen Labs,Backend Developer,26.5,2025-07-27,Selected
+1099,2217,InsightLoop,Backend Developer,12.89,2025-02-11,Selected
+1100,2219,QuantumWorks,Backend Developer,21.07,2025-07-13,Selected
+1101,2220,NexGen Labs,Business Analyst,12.94,2025-06-22,Selected
+1102,2221,InsightLoop,ML Engineer,26.03,2025-05-21,Selected
+1103,2222,TechNova,QA Engineer,12.54,2026-06-10,Selected
+1104,2224,BrightByte,Data Analyst,20.23,2026-08-08,Selected
+1105,2225,CodeCraft,Software Engineer,25.28,2025-07-11,Selected
+1106,2226,InsightLoop,Business Analyst,5.4,2025-09-04,Selected
+1107,2227,QuantumWorks,Cloud Associate,25.95,2026-02-04,Selected
+1108,2228,Apex Systems,Backend Developer,12.33,2025-07-24,Selected
+1109,2233,Apex Systems,Software Engineer,5.73,2026-04-03,Selected
+1110,2234,BrightByte,Cloud Associate,17.97,2025-02-23,Selected
+1111,2238,BlueOrbit,Software Engineer,13.95,2026-01-13,Selected
+1112,2239,CodeCraft,Cloud Associate,6.9,2026-04-17,Selected
+1113,2242,TechNova,Cloud Associate,4.67,2025-01-04,Selected
+1114,2245,BlueOrbit,Cloud Associate,8.06,2025-11-13,Selected
+1115,2246,Vertex Digital,Business Analyst,14.45,2025-08-11,Selected
+1116,2248,TechNova,QA Engineer,25.71,2025-06-30,Selected
+1117,2252,NexGen Labs,Backend Developer,4.94,2025-08-19,Selected
+1118,2253,QuantumWorks,Backend Developer,8.09,2026-06-08,Selected
+1119,2255,CodeCraft,Data Analyst,20.11,2026-07-26,Selected
+1120,2257,Apex Systems,Cloud Associate,6.15,2025-05-29,Selected
+1121,2259,InnoWave,Backend Developer,21.49,2025-07-02,Selected
+1122,2262,Vertex Digital,ML Engineer,9.11,2025-11-19,Selected
+1123,2263,NexGen Labs,Data Analyst,6.3,2025-03-15,Selected
+1124,2267,CloudSprint,QA Engineer,17.0,2026-08-07,Selected
+1125,2268,TechNova,Business Analyst,3.9,2025-07-09,Selected
+1126,2269,BlueOrbit,Software Engineer,24.74,2026-09-30,Selected
+1127,2270,NexGen Labs,QA Engineer,21.92,2025-09-07,Selected
+1128,2276,DataNest,Data Analyst,12.55,2026-08-16,Selected
+1129,2277,BlueOrbit,Business Analyst,22.48,2025-01-25,Selected
+1130,2279,QuantumWorks,Backend Developer,9.01,2026-05-24,Selected
+1131,2282,BrightByte,QA Engineer,21.61,2026-08-26,Selected
+1132,2283,DataNest,QA Engineer,12.75,2026-08-03,Selected
+1133,2284,CloudSprint,Data Analyst,8.52,2025-07-03,Selected
+1134,2286,Apex Systems,ML Engineer,19.61,2026-02-28,Selected
+1135,2288,QuantumWorks,Data Analyst,17.93,2026-09-10,Selected
+1136,2291,CodeCraft,Business Analyst,17.82,2025-08-12,Selected
+1137,2293,BrightByte,Business Analyst,15.23,2025-02-14,Selected
+1138,2295,DataNest,Cloud Associate,16.93,2026-01-26,Selected
+1139,2297,InnoWave,QA Engineer,13.09,2026-09-02,Selected
+1140,2298,QuantumWorks,Data Analyst,26.11,2025-03-22,Selected
+1141,2299,CloudSprint,Software Engineer,13.0,2026-02-11,Selected
+1142,2300,CodeCraft,Cloud Associate,7.36,2026-02-22,Selected
+1143,2301,Apex Systems,Cloud Associate,3.96,2025-04-21,Selected
+1144,2305,InnoWave,Software Engineer,10.9,2025-02-08,Selected
+1145,2307,DataNest,QA Engineer,5.0,2025-07-25,Selected
+1146,2308,Apex Systems,Software Engineer,16.17,2025-07-29,Selected
+1147,2309,NexGen Labs,Business Analyst,19.92,2025-05-06,Selected
+1148,2317,QuantumWorks,Business Analyst,14.8,2026-09-30,Selected
+1149,2318,Vertex Digital,Business Analyst,7.13,2026-10-07,Selected
+1150,2319,Vertex Digital,Cloud Associate,20.96,2025-10-16,Selected
+1151,2321,Vertex Digital,Software Engineer,10.96,2025-05-03,Selected
+1152,2322,TechNova,Business Analyst,14.63,2025-03-17,Selected
+1153,2323,QuantumWorks,QA Engineer,11.82,2025-04-17,Selected
+1154,2324,BlueOrbit,Backend Developer,7.8,2025-06-26,Selected
+1155,2326,CodeCraft,Backend Developer,11.87,2025-09-24,Selected
+1156,2328,BlueOrbit,QA Engineer,15.61,2026-05-30,Selected
+1157,2330,InnoWave,Data Analyst,22.27,2026-09-19,Selected
+1158,2331,QuantumWorks,Cloud Associate,5.4,2025-08-03,Selected
+1159,2332,TechNova,Backend Developer,17.4,2026-01-03,Selected
+1160,2333,CloudSprint,Software Engineer,18.02,2025-06-04,Selected
+1161,2334,NexGen Labs,Data Analyst,13.35,2026-08-19,Selected
+1162,2335,NexGen Labs,Software Engineer,3.64,2025-07-04,Selected
+1163,2336,TechNova,Software Engineer,22.13,2026-07-06,Selected
+1164,2338,CloudSprint,Cloud Associate,16.03,2025-10-31,Selected
+1165,2339,CloudSprint,QA Engineer,22.21,2025-04-17,Selected
+1166,2340,NexGen Labs,Data Analyst,4.54,2025-01-01,Selected
+1167,2343,DataNest,Cloud Associate,4.68,2025-07-04,Selected
+1168,2344,DataNest,QA Engineer,3.68,2025-03-07,Selected
+1169,2346,BrightByte,QA Engineer,17.65,2026-09-01,Selected
+1170,2347,NexGen Labs,Backend Developer,3.86,2025-01-21,Selected
+1171,2349,CodeCraft,Software Engineer,3.59,2025-04-09,Selected
+1172,2353,NexGen Labs,Cloud Associate,15.22,2025-08-08,Selected
+1173,2354,NexGen Labs,QA Engineer,6.07,2026-04-11,Selected
+1174,2355,Apex Systems,Cloud Associate,8.43,2025-06-10,Selected
+1175,2357,CodeCraft,Software Engineer,8.78,2026-05-20,Selected
+1176,2363,CloudSprint,Data Analyst,11.62,2025-12-29,Selected
+1177,2364,CodeCraft,Cloud Associate,19.94,2025-10-07,Selected
+1178,2366,TechNova,QA Engineer,13.21,2026-09-26,Selected
+1179,2367,BrightByte,Software Engineer,10.46,2026-08-08,Selected
+1180,2369,CloudSprint,Backend Developer,23.31,2026-07-04,Selected
+1181,2370,TechNova,ML Engineer,23.25,2026-06-12,Selected
+1182,2372,Vertex Digital,Business Analyst,7.89,2026-07-12,Selected
+1183,2375,Apex Systems,Software Engineer,13.69,2025-12-22,Selected
+1184,2377,InnoWave,Backend Developer,3.92,2025-07-28,Selected
+1185,2383,DataNest,Software Engineer,8.67,2025-02-09,Selected
+1186,2384,TechNova,ML Engineer,6.56,2025-07-05,Selected
+1187,2386,InnoWave,Data Analyst,12.01,2025-08-17,Selected
+1188,2387,DataNest,Cloud Associate,8.84,2025-12-23,Selected
+1189,2390,DataNest,Data Analyst,17.08,2025-11-25,Selected
+1190,2394,BrightByte,Backend Developer,22.42,2026-01-01,Selected
+1191,2397,NexGen Labs,Software Engineer,16.48,2025-05-08,Selected
+1192,2398,DataNest,Business Analyst,10.59,2026-05-01,Selected
+1193,2399,CloudSprint,ML Engineer,7.74,2025-07-08,Selected
+1194,2400,Vertex Digital,Software Engineer,15.32,2025-08-20,Selected
+1195,2401,InsightLoop,Backend Developer,15.67,2026-01-26,Selected
+1196,2402,QuantumWorks,QA Engineer,5.05,2026-02-10,Selected
+1197,2403,InsightLoop,Software Engineer,22.86,2026-08-23,Selected
+1198,2404,InsightLoop,Software Engineer,7.51,2025-12-15,Selected
+1199,2409,CodeCraft,Business Analyst,12.9,2026-09-16,Selected
+1200,2410,QuantumWorks,QA Engineer,16.89,2025-01-15,Selected
+1201,2413,NexGen Labs,Business Analyst,11.87,2026-05-30,Selected
+1202,2417,CodeCraft,ML Engineer,4.34,2026-01-18,Selected
+1203,2418,NexGen Labs,Software Engineer,4.9,2025-07-19,Selected
+1204,2421,DataNest,ML Engineer,11.53,2025-10-18,Selected
+1205,2422,NexGen Labs,Data Analyst,8.54,2026-05-24,Selected
+1206,2423,TechNova,Cloud Associate,3.91,2026-09-26,Selected
+1207,2425,InnoWave,Business Analyst,5.79,2026-08-05,Selected
+1208,2426,TechNova,Business Analyst,7.95,2026-05-13,Selected
+1209,2429,NexGen Labs,Business Analyst,16.79,2026-10-13,Selected
+1210,2431,NexGen Labs,Data Analyst,9.3,2026-05-14,Selected
+1211,2432,Apex Systems,QA Engineer,14.32,2026-06-26,Selected
+1212,2435,Apex Systems,Business Analyst,15.84,2025-04-25,Selected
+1213,2440,BlueOrbit,Cloud Associate,16.94,2025-07-30,Selected
+1214,2442,CloudSprint,ML Engineer,3.19,2026-09-12,Selected
+1215,2444,Apex Systems,Software Engineer,24.63,2025-06-24,Selected
+1216,2445,InsightLoop,Backend Developer,3.85,2025-01-21,Selected
+1217,2446,BlueOrbit,Cloud Associate,3.89,2025-03-19,Selected
+1218,2449,InsightLoop,Cloud Associate,3.21,2025-10-24,Selected
+1219,2450,CloudSprint,Cloud Associate,10.89,2026-01-27,Selected
+1220,2451,TechNova,QA Engineer,14.69,2025-06-05,Selected
+1221,2454,BlueOrbit,Data Analyst,4.14,2025-01-13,Selected
+1222,2456,BlueOrbit,Data Analyst,19.55,2025-03-19,Selected
+1223,2459,BrightByte,ML Engineer,15.38,2025-05-29,Selected
+1224,2460,CloudSprint,Data Analyst,7.05,2026-08-25,Selected
+1225,2462,Apex Systems,Data Analyst,11.24,2025-12-28,Selected
+1226,2463,InnoWave,Business Analyst,7.06,2025-05-18,Selected
+1227,2464,Vertex Digital,QA Engineer,7.8,2025-04-24,Selected
+1228,2465,BrightByte,Backend Developer,16.27,2026-07-03,Selected
+1229,2467,Vertex Digital,Software Engineer,23.61,2026-03-25,Selected
+1230,2470,BlueOrbit,Software Engineer,9.56,2026-06-07,Selected
+1231,2473,TechNova,QA Engineer,3.91,2025-01-03,Selected
+1232,2474,Vertex Digital,QA Engineer,3.05,2025-01-05,Selected
+1233,2485,InnoWave,Backend Developer,4.23,2026-02-25,Selected
+1234,2486,CloudSprint,Software Engineer,13.74,2025-06-01,Selected
+1235,2491,CloudSprint,Data Analyst,3.71,2025-01-18,Selected
+1236,2493,BrightByte,Cloud Associate,17.33,2025-12-21,Selected
+1237,2494,TechNova,Software Engineer,9.13,2026-03-13,Selected
+1238,2495,DataNest,QA Engineer,8.41,2025-06-29,Selected
+1239,2496,TechNova,Backend Developer,13.73,2026-06-30,Selected
+1240,2497,DataNest,Backend Developer,12.83,2025-11-09,Selected
+1241,2498,TechNova,ML Engineer,7.99,2025-04-01,Selected
+1242,2500,CloudSprint,Cloud Associate,17.1,2025-06-17,Selected

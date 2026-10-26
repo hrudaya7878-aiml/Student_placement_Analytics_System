@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Placement Analytics</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand-link" href="/"><div class="brand-mark">SP</div><div><div class="brand">Student Placement Analytics</div><div class="subtitle">Data-driven placement insights</div></div></a>
+  <span class="tag">Academic project · Synthetic data</span>
+</header>
+<main class="container">
+  <section class="welcome">
+    <div><p class="eyebrow">PLACEMENT ANALYTICS</p><h1>Explore the data.<br><span>One insight at a time.</span></h1>
+    <p class="intro">Choose a section below to open its detailed statistics, tables and visual reports. The home page stays simple and uncluttered.</p></div>
+    <div class="welcome-icon">↗</div>
+  </section>
+  <section class="section-head home-section-head"><div><p class="eyebrow">EXPLORE SECTIONS</p><h2>What would you like to view?</h2></div></section>
+  <section class="section-grid">
+    <a class="section-card" href="/section/overview"><span class="section-icon">◫</span><span class="section-title">Placement Overview</span><span class="section-desc">Key totals and overall placement rate</span><span class="card-arrow">Open section ↗</span></a>
+    <a class="section-card" href="/section/departments"><span class="section-icon">▥</span><span class="section-title">Department Analysis</span><span class="section-desc">Compare eligible students and placement outcomes by department</span><span class="card-arrow">Open section ↗</span></a>
+    <a class="section-card" href="/section/packages"><span class="section-icon">₹</span><span class="section-title">Package Analysis</span><span class="section-desc">Average, median, highest package and salary distribution</span><span class="card-arrow">Open section ↗</span></a>
+    <a class="section-card" href="/section/skills"><span class="section-icon">⌘</span><span class="section-title">Skill Demand</span><span class="section-desc">Most commonly listed skills across student profiles</span><span class="card-arrow">Open section ↗</span></a>
+    <a class="section-card" href="/section/students"><span class="section-icon">☷</span><span class="section-title">Student Records</span><span class="section-desc">Browse a preview of student placement records</span><span class="card-arrow">Open section ↗</span></a>
+    <a class="section-card" href="/section/reports"><span class="section-icon">▤</span><span class="section-title">Charts & Reports</span><span class="section-desc">Open visual reports and export department summary</span><span class="card-arrow">Open section ↗</span></a>
+  </section>
+  <section class="api-note"><div><strong>Student Placement Data Analysis System</strong><p>Python · Flask · MySQL · Pandas · NumPy · Matplotlib</p></div><a href="/api/summary">Open summary API ↗</a></section>
+  <footer>Student Placement Data Analysis System <span>Fictional, generated sample records · Not official placement data</span></footer>
+</main>
+</body></html>
